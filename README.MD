@@ -1,1 +1,1 @@
-# Recipes with Python! - A Cooking Blob
+# A Cooking Blob
