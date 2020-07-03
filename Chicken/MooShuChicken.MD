@@ -81,6 +81,7 @@ Corn starch                               | 2 tablespoons        | Local Publix
 - Add thickening, mix well and cook for 3 minutes
 
 ## Enjoy!
+![Moo Shu Chicken](https://user-images.githubusercontent.com/26311995/86422136-46697500-bcaa-11ea-8bd8-45041b9082eb.jpg)
 
 
 
