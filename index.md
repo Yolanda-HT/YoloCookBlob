@@ -5,5 +5,5 @@
 > Yolanda (Huitian) Diao
 
 ### Chicken recipes
-[Moo Shu Chicken](Chicken/MooShuChicken.MD)
+- [Moo Shu Chicken](Chicken/MooShuChicken.MD)
 
