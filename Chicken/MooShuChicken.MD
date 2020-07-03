@@ -1,7 +1,8 @@
 [Main Page](https://yolanda-ht.github.io/YoloCookBlob/)
 
 # Moo Shu Chicken
-> 07/02/2020
+> 07/02/2020 <br>
+> Servings: 8
 
 ## 1. Ingredients
 ### 1.1 Chicken & seasoning
@@ -57,11 +58,11 @@ Corn starch                               | 2 tablespoons        | Local Publix
 - Cut chicken into thin slices (chicken need to be frozen to be a little bit hard so that it can be cut easily)
 - Mix chicken seasoning, add in the chicken and mix well
 - Season for 30 minutes
-- Heat a large non-stick pan & 0.5 cup canola oil to high heat, fry the chicken until almost cooked (It's okay if center is still raw. It will be cooked with other ingredients together later)
+- Heat a large non-stick pan & 2 tablespoons canola oil to high heat, fry the chicken until almost cooked (It's okay if center is still raw. It will be cooked with other ingredients together later)
 
 ### 2.2 Prepare fried egg
 - Mix egg, salt and oil
-- Heat a large non-stick pan & 0.5 cup canola oil to high heat (smoking heat), fry the egg mix till mostly done
+- Heat a large non-stick pan & 2 tablespoons canola oil to high heat (smoking heat), fry the egg mix till mostly done
 - Remove egg from heat, leave in a bowl (If leave on heat egg will become too dry)
 
 ### 2.3 Prepare cloud ear fungus
@@ -74,7 +75,7 @@ Corn starch                               | 2 tablespoons        | Local Publix
 - Cut cabbage into small squares (1.5 inches x 1.5 inches)
 
 ### 2.5 Cook
-- Heat a large non-stick pan & 0.5 cup canola oil to high heat
+- Heat a large non-stick pan & 2 tablespoons canola oil to high heat
 - Fry sliced carrots till soften
 - Add cloud ear fungus and cabbage, fry until cabbage soften (add oil if needed)
 - Add sliced cucumber, cook for 30s
