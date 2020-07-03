@@ -64,7 +64,7 @@ Corn starch                               | 2 tablespoons        | Local Publix
 - Heat a large non-stick pan & 0.5 cup canola oil to high heat (smoking heat), fry the egg mix till mostly done
 - Remove egg from heat, leave in a bowl (If leave on heat egg will become too dry)
 
-### 2.3 Prepare cloud ear fungs and vegetables
+### 2.3 Prepare cloud ear fungs
 - Pour boiling hot water onto dry cloud ear fungus
 - Wait for 10 minutes for the dry fungus to fully expand
 - Cut the fungus into small pieces
