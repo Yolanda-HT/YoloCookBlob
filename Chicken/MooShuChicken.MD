@@ -11,12 +11,12 @@ Name                                           |         Amount       |       Wh
 ---------------------------------------------  | -------------------- | ---------------------------------------- 
 Chicken breast (freeze ~1 hour -> a bit hard)  |      3 lbs           |  [Costco Chicken breast](https://www.costcobusinessdelivery.com/*kirkland-signature-chicken-breasts%2C-boneless-skinless%2C-10-lb-avg-wt.product.11249049.html)
 Unseasoned pinapple tenderizer                 |   2 teaspoons        |  [Amazon](https://www.amazon.com/Adolphs-Unseasoned-Tenderizer-44-5-oz/dp/B0015AO7YO/ref=sr_1_1?dchild=1&keywords=pineapple+tenderizer&qid=1593736883&sr=8-1)
-Cooking Sake                                   |   1/3 cup            | Local Asian Market
+Cooking Sake                                   |   1/4 cup            | Local Asian Market
 Corn starch                                    |   1 tablespoon       | Local Publix
 Reduce sodium soy sauce (less if not reduced sodium) |   1/4 cup      | Local Asian Market
 Ginger powder                                  |   1 teaspoon         | Local Publix
 Canola oil                                     | 1 tablespoon         | Local Publix
-Boiled warm water                              | 1 cup                | Home
+Boiled warm water                              | 1/2 cup                | Home
 
 ### 1.2 Egg mix
 
