@@ -4,6 +4,17 @@
 
 > Yolanda (Huitian) Diao
 
-### Chicken recipes
+### My recipes
+- [Soy Sauce Glazed Eggs (Ajitsuke Tamago)](Egg/AjitsukeTamago.MD)
 - [Moo Shu Chicken](Chicken/MooShuChicken.MD)
+- [Copycat Costco Garlic BBQ Chicken](Chicken/CopycatCostcoGarlicBBQChicken.MD)
+- [Mexican Grilled Chicken](Chicken/MexicanGrilledChicken.MD)
+- [Garlic Grilled Chicken](Chicken/GarlicGrilledChicken.MD)
+- [Copycat KFC Buttermilk Fried Chicken](Chicken/CopycatKFCButtermilkFriedChicken.MD)
+- [Rosemary Pork Chops](Pork/RosemaryPorkChops.MD)
+- [Garlic Pork Ribs](Pork/GarlicPorkRibs.MD)
+- [Pan Fried Korean BBQ Beef (Bulgogi)](Beef/PanFriedKoreanBBQBeef.MD)
+- [Taro Boba Tea](Drinks/TaroBobaTea.MD)
 
+### Tips
+- [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
