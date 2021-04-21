@@ -18,7 +18,7 @@
 - Black pepper: 1 tsp 
 - Mustard: 1 tsp
 - Optional: cayenne pepper powder
-- * Mix with a bit of butter milk mix from above
+*Mix with a bit of butter milk mix from above*
 
 ## Steps:
 - Marinate for > 1 hour
