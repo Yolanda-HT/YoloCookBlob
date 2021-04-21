@@ -22,5 +22,6 @@
 
 ## Steps:
 - Marinate for > 1 hour
-- Fry at 365F oil temp till crispy. 
-- Transfer to oven (375F), bake till 165F internal temperature.
+- Coat with breading
+- Fry at 365F oil temp till crispy
+- Transfer to oven (375F), bake till 165F internal temperature
