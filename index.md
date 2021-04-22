@@ -21,6 +21,7 @@
 - [**[Korean]** Maangchi Traditional Napa Kimchi](https://www.maangchi.com/recipe/tongbaechu-kimchi)
 - [**[Indian]** Lamb Masala](https://veenaazmanov.com/indian-slow-cooked-lamb-masala-aka-mutton-masala/)
 - [**[Mexican]** Grilled Chicken (Pollo Asado)](https://www.isabeleats.com/pollo-asado/)
+- [**[Mexican]** Yellow Rice](https://www.favfamilyrecipes.com/super-easy-yellow-rice/)
 
 ### Tips
 - [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
