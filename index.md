@@ -20,6 +20,7 @@
 - [**[Korean]** Maangchi Easy Kimchi](https://www.maangchi.com/recipe/easy-kimchi)
 - [**[Korean]** Maangchi Traditional Napa Kimchi](https://www.maangchi.com/recipe/tongbaechu-kimchi)
 - [**[Indian]** Lamb Masala](https://veenaazmanov.com/indian-slow-cooked-lamb-masala-aka-mutton-masala/)
+- [**[Indian]** Chicken Tikka Masala](https://tasty.co/recipe/homemade-chicken-tikka-masala)
 - [**[Mexican]** Grilled Chicken (Pollo Asado)](https://keviniscooking.com/how-to-make-pollo-asado/)
 - [**[Mexican]** Yellow Rice](https://www.favfamilyrecipes.com/super-easy-yellow-rice/)
 
