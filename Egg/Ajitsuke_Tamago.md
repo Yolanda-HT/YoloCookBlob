@@ -8,7 +8,7 @@
 - Vinegar: 1 tbsp
 - Ice cubes: 1 cup
 - Water: 1 small pot
--
+
 ### 1.2 Glaze
 - Water: 1 cup
 - Soy sauce (reduced sodium): 4 tbsp
