@@ -5,7 +5,7 @@
 > Yolanda (Huitian) Diao
 
 ### My Recipes
-- [Soy Sauce Glazed Eggs (Ajitsuke Tamago)](Egg/AjitsukeTamago.MD)
+- [Soy Sauce Glazed Eggs (Ajitsuke Tamago)](Egg/Ajitsuke_Tamago.md)
 - [Moo Shu Chicken](Chicken/MooShuChicken.MD)
 - [Copycat Costco Garlic BBQ Chicken](Chicken/CopycatCostcoGarlicBBQChicken.MD)
 - [Mexican Grilled Chicken](Chicken/MexicanGrilledChicken.MD)
