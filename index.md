@@ -23,6 +23,7 @@
 - [**[Indian]** Chicken Tikka Masala](https://tasty.co/recipe/homemade-chicken-tikka-masala)
 - [**[Mexican]** Grilled Chicken (Pollo Asado)](https://keviniscooking.com/how-to-make-pollo-asado/)
 - [**[Mexican]** Yellow Rice](https://www.favfamilyrecipes.com/super-easy-yellow-rice/)
+- [**[Baking]** Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag) *Thank you Mai for recommendation!*
 
 ### Tips
 - [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
