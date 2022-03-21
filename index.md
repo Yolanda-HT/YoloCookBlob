@@ -35,6 +35,7 @@
 - [**[Columiban]** La Casa Del Pandebono](https://lacasadelpandebono.business.site/?utm_source=gmb&utm_medium=referral) Recommended by: Yolanda
 - [**[Dessert]** Pastiche Fine Desserts](https://pastichefinedesserts.com/) Recommended by: Ellen (Rhode Island)
 - [**[Chinese]** Go Chi](http://places.singleplatform.com/go-chi/menu?ref=google) Recommended by: Xiaoguang
+- [**[Seafood]** Alive & Kicking Lobsters](http://places.singleplatform.com/alive--kicking-lobsters/menu?ref=google) Recommended by: Daniel
 
 ### Tips
 - [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
