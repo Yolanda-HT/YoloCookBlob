@@ -7,14 +7,14 @@
 ### My Recipes
 - [Soy Sauce Glazed Eggs (Ajitsuke Tamago)](Egg/Ajitsuke_Tamago.md)
 - [Moo Shu Chicken](Chicken/MooShuChicken.MD)
-- [Copycat Costco Garlic BBQ Chicken](Chicken/CopycatCostcoGarlicBBQChicken.MD)
-- [Mexican Grilled Chicken](Chicken/MexicanGrilledChicken.MD)
-- [Garlic Grilled Chicken](Chicken/GarlicGrilledChicken.MD)
-- [Copycat KFC Buttermilk Fried Chicken](Chicken/CopycatKFCButtermilkFriedChicken.MD)
-- [Rosemary Pork Chops](Pork/RosemaryPorkChops.MD)
-- [Garlic Pork Ribs](Pork/GarlicPorkRibs.MD)
-- [Pan Fried Korean BBQ Beef (Bulgogi)](Beef/PanFriedKoreanBBQBeef.MD)
-- [Taro Boba Tea](Drinks/TaroBobaTea.MD)
+- [Copycat Costco Garlic BBQ Chicken (to be updated)](Chicken/CopycatCostcoGarlicBBQChicken.MD)
+- [Mexican Grilled Chicken (to be updated)](Chicken/MexicanGrilledChicken.MD)
+- [Garlic Grilled Chicken (to be updated)](Chicken/GarlicGrilledChicken.MD)
+- [Copycat KFC Buttermilk Fried Chicken (to be updated)](Chicken/CopycatKFCButtermilkFriedChicken.MD)
+- [Rosemary Pork Chops (to be updated)](Pork/RosemaryPorkChops.MD)
+- [Garlic Pork Ribs (to be updated)](Pork/GarlicPorkRibs.MD)
+- [Pan Fried Korean BBQ Beef (Bulgogi) (to be updated)](Beef/PanFriedKoreanBBQBeef.MD)
+- [Taro Boba Tea (to be updated)](Drinks/TaroBobaTea.MD)
 
 ### Other Recipes
 - [**[Korean]** Maangchi Easy Kimchi](https://www.maangchi.com/recipe/easy-kimchi)
