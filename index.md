@@ -25,5 +25,9 @@
 - [**[Mexican]** Yellow Rice](https://www.favfamilyrecipes.com/super-easy-yellow-rice/)
 - [**[Baking]** Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag) *Thank you Mai for recommendation!*
 
+## Boston area restaurant recommendations
+- [**[Small plates]** Lil Donkey](http://www.littledonkeybos.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb) Recommended by: Daphne
+- [**[Taco]** Naco Taco](https://www.nacocentral.com/) Recommended by: Adam
+
 ### Tips
 - [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
