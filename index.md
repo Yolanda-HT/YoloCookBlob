@@ -28,6 +28,13 @@
 ## Boston area restaurant recommendations
 - [**[Small plates]** Lil Donkey](http://www.littledonkeybos.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb) Recommended by: Daphne
 - [**[Taco]** Naco Taco](https://www.nacocentral.com/) Recommended by: Adam
+- [**[Taco]** Felipe's Taquria](https://www.felipesboston.com/) Recommended by: Daphne
+- [**[Wine bar]** Barcelona](https://barcelonawinebar.com/) Recommended by: Adam
+- [**[Indian]** The Maharaja](https://maharajaboston.com/) Recommended by: Daphne
+- [**[French]** Mistral](https://mistralbistro.com/) Recommended by: Katya
+- [**[Columiban]** La Casa Del Pandebono](https://lacasadelpandebono.business.site/?utm_source=gmb&utm_medium=referral) Recommended by: Yolanda
+- [**[Dessert]** Pastiche Fine Desserts](https://pastichefinedesserts.com/) Recommended by: Ellen (Rhode Island)
+- [**[Chinese]** Go Chi](http://places.singleplatform.com/go-chi/menu?ref=google) Recommended by: Xiaoguang
 
 ### Tips
 - [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
