@@ -12,7 +12,7 @@
 - [Garlic Grilled Chicken (to be updated)](Chicken/GarlicGrilledChicken.MD)
 - [Copycat KFC Buttermilk Fried Chicken](Chicken/Copycat_KFC_Buttermilk_Fried_Chicken.MD)
 - [Rosemary Pork Chops (to be updated)](Pork/RosemaryPorkChops.MD)
-- [Garlic Pork Ribs (to be updated)](Pork/GarlicPorkRibs.MD)
+- [Garlic Pork Ribs](Pork/Garlic_Pork_Ribs.MD)
 - [Pan Fried Korean BBQ Beef (Bulgogi) (to be updated)](Beef/PanFriedKoreanBBQBeef.MD)
 - [Taro Boba Tea (to be updated)](Drinks/TaroBobaTea.MD)
 - [Christin's spiced nuts](Baking/Christines_Spiced_Nuts.MD)
