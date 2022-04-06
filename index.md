@@ -36,6 +36,9 @@
 - [**[Dessert]** Pastiche Fine Desserts](https://pastichefinedesserts.com/) Recommended by: Ellen (Rhode Island)
 - [**[Chinese]** Go Chi](http://places.singleplatform.com/go-chi/menu?ref=google) Recommended by: Xiaoguang
 - [**[Seafood]** Alive & Kicking Lobsters](http://places.singleplatform.com/alive--kicking-lobsters/menu?ref=google) Recommended by: Daniel
+- [**[Cafe]** Cafe Landwer](https://www.landwercafe.com/) Recommended by: Asaf
+- [**[Cafe]** Tatte Bakery & Cafe](https://tattebakery.com/) Recommended by: Asaf
+- [**[Russian]** Mari Vanna](https://www.marivanna.ru/en/) Recommended by: Katya
 
 ### Tips
 - [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
