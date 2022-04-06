@@ -6,11 +6,11 @@
 
 ### My Recipes
 - [Soy Sauce Glazed Eggs (Ajitsuke Tamago)](Egg/Ajitsuke_Tamago.md)
-- [Moo Shu Chicken](Chicken/MooShuChicken.MD)
+- [Moo Shu Chicken](Chicken/Moo_Shu_Chicken.MD)
 - [Copycat Costco Garlic BBQ Chicken (to be updated)](Chicken/CopycatCostcoGarlicBBQChicken.MD)
 - [Mexican Grilled Chicken (to be updated)](Chicken/MexicanGrilledChicken.MD)
 - [Garlic Grilled Chicken (to be updated)](Chicken/GarlicGrilledChicken.MD)
-- [Copycat KFC Buttermilk Fried Chicken (to be updated)](Chicken/CopycatKFCButtermilkFriedChicken.MD)
+- [Copycat KFC Buttermilk Fried Chicken](Chicken/Copycat_KFC_Buttermilk_Fried_Chicken.MD)
 - [Rosemary Pork Chops (to be updated)](Pork/RosemaryPorkChops.MD)
 - [Garlic Pork Ribs (to be updated)](Pork/GarlicPorkRibs.MD)
 - [Pan Fried Korean BBQ Beef (Bulgogi) (to be updated)](Beef/PanFriedKoreanBBQBeef.MD)
