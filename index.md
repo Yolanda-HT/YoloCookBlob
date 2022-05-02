@@ -39,9 +39,11 @@
 - [**[Seafood]** Alive & Kicking Lobsters](http://places.singleplatform.com/alive--kicking-lobsters/menu?ref=google) Recommended by: Daniel
 - [**[Cafe]** Cafe Landwer](https://www.landwercafe.com/) Recommended by: Asaf
 - [**[Tapas]** Toro](https://www.toro-restaurant.com/) Recommended by: Asaf
-- [**[Copa]** Italian](https://www.coppaboston.com/) Recommended by: Asaf
+- [**[Italian]** Copa](https://www.coppaboston.com/) Recommended by: Asaf
 - [**[Cafe]** Tatte Bakery & Cafe](https://tattebakery.com/) Recommended by: Asaf
 - [**[Russian]** Mari Vanna](https://www.marivanna.ru/en/) Recommended by: Katya
+- [**[Italian]** Trattoria Il Panino](https://www.trattoriailpanino.com/) Recommended by: Nilushi
+- [**[French Fusion]** Coquette](https://www.frenchcoquette.com/) Recommended by: Nilushi
 
 ### Tips
 - [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
