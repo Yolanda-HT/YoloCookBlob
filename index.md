@@ -14,7 +14,7 @@
 - [Rosemary Pork Chops (to be updated)](Pork/RosemaryPorkChops.MD)
 - [Garlic Pork Ribs](Pork/Garlic_Pork_Ribs.MD)
 - [Pan Fried Korean BBQ Beef (Bulgogi) (to be updated)](Beef/PanFriedKoreanBBQBeef.MD)
-- [Taro Boba Tea (to be updated)](Drinks/TaroBobaTea.MD)
+- [Taro Boba Tea (to be updated)](Sweets/Taro_Boba_Tea.md)
 - [Christin's spiced nuts](Baking/Christines_Spiced_Nuts.MD)
 
 ### Other Recipes
