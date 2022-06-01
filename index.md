@@ -44,6 +44,7 @@
 - [**[Russian]** Mari Vanna](https://www.marivanna.ru/en/) Recommended by: Katya
 - [**[Italian]** Trattoria Il Panino](https://www.trattoriailpanino.com/) Recommended by: Nilushi
 - [**[French Fusion]** Coquette](https://www.frenchcoquette.com/) Recommended by: Nilushi
+- [**[Cuban]** Jamaica Plain area] Recommended by: Miles
 
 ### Tips
 - [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
