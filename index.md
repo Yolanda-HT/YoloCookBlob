@@ -45,6 +45,8 @@
 - [**[Italian]** Trattoria Il Panino](https://www.trattoriailpanino.com/) Recommended by: Nilushi
 - [**[French Fusion]** Coquette](https://www.frenchcoquette.com/) Recommended by: Nilushi
 - [**[Cuban]** Jamaica Plain area] Recommended by: Miles
+- [**[Japanese]** Kura Sushi](https://kurasushi.com/locations/watertown-ma/) Recommended by: Yolanda
+- [**[Food Court]** Time Out Market](https://www.timeoutmarket.com/boston/) Recommended by: Nilushi
 
 ### Tips
 - [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
