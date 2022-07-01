@@ -17,7 +17,7 @@
 - [Taro Boba Tea](Sweets/Taro_Boba_Tea.md)
 - [Christin's spiced nuts](Baking/Christines_Spiced_Nuts.MD)
 
-### Other Recipes
+### Yolanda's Recommended Recipes
 - [**[Korean]** Maangchi Easy Kimchi](https://www.maangchi.com/recipe/easy-kimchi)
 - [**[Korean]** Maangchi Traditional Napa Kimchi](https://www.maangchi.com/recipe/tongbaechu-kimchi)
 - [**[Indian]** Lamb Masala](https://veenaazmanov.com/indian-slow-cooked-lamb-masala-aka-mutton-masala/)
@@ -25,6 +25,10 @@
 - [**[Mexican]** Grilled Chicken (Pollo Asado)](https://keviniscooking.com/how-to-make-pollo-asado/)
 - [**[Mexican]** Yellow Rice](https://www.favfamilyrecipes.com/super-easy-yellow-rice/)
 - [**[Baking]** Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag) *Thank you Mai for recommendation!*
+- [**[Cocktail]** Lychee Magarita](https://www.food.com/recipe/lychee-margarita-100344)
+- [**[Sangaria]** Sangria! Sangria!](https://www.allrecipes.com/recipe/72612/sangria-sangria/)
+- [**[Cocktail]** Butterfly Pea Flower Tea Cocktail](https://sugarandcloth.com/magic-color-changing-mint-julep-recipe/)
+- [**[Cocktail]** Galaxy Magic Mule](https://www.gastronomblog.com/the-galaxy-magic-mule-a-vodka-moscow-mule/)
 
 ## Boston area restaurant recommendations
 - [**[Small plates]** Lil Donkey](http://www.littledonkeybos.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb) Recommended by: Daphne
