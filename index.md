@@ -15,7 +15,7 @@
 - [Garlic Pork Ribs](Pork/Garlic_Pork_Ribs.MD)
 - [Pan Fried Korean BBQ Beef (Bulgogi) (to be updated)](Beef/PanFriedKoreanBBQBeef.MD)
 - [Taro Boba Tea](Sweets/Taro_Boba_Tea.md)
-- [Christin's spiced nuts](Baking/Christines_Spiced_Nuts.MD)
+- [Christine's spiced nuts](Baking/Christines_Spiced_Nuts.MD)
 
 ### Yolanda's Recommended Recipes
 - [**[Korean]** Maangchi Easy Kimchi](https://www.maangchi.com/recipe/easy-kimchi)
@@ -54,6 +54,8 @@
 - [**[Japanese]** Gyu-Kaku](https://www.gyu-kaku.com/cambridge-harvard-square) Recommended by: Yolanda
 - [**[Japanese]** Kura Sushi](https://kurasushi.com/locations/watertown-ma/) Recommended by: Yolanda
 - [**[Food Court]** Time Out Market](https://www.timeoutmarket.com/boston/) Recommended by: Nilushi
+- [**[Small plates]** Sarma Restaurant](https://www.sarmarestaurant.com/) Recommended by: Meghan
+- [**[Bakery]** Sofra](https://www.sofrabakery.com/) Recommended by: Meghan
 
 ### Tips
 - [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
