@@ -16,6 +16,7 @@
 - [Pan Fried Korean BBQ Beef (Bulgogi) (to be updated)](Beef/PanFriedKoreanBBQBeef.MD)
 - [Taro Boba Tea](Sweets/Taro_Boba_Tea.md)
 - [Christine's spiced nuts](Baking/Christines_Spiced_Nuts.MD)
+- [Chinese Wallnut Cookies](Baking/Chinese_Wallnut_Cookies.md)
 
 ### Yolanda's Recommended Recipes
 - [**[Fish]** Lemon Butter Cod](https://www.cookingclassy.com/lemon-butter-cod-recipe/)
