@@ -1,4 +1,4 @@
-# Chinese Wallnut Cookies
+# Chinese Wall nut (walnut) Cookies
 > 04/06/2022 <br>
 > For: 20 cookies
 
