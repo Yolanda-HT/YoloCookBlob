@@ -20,10 +20,15 @@
 - Sesame seeds: some
 
 ## 2. Steps
-- Bake wallnuts (300F, 10 minutes). Cool and dice up.
-- Mix all ingredients and roll into a dough ball. Let it set for half an hour.
-  - Separate into 55g per portion. Press each on parchment paper into round shape, about 1/2 inch thick.
-  - Brush egg wash onto each one and spray sesame seeds on top.
+- Prepare wallnuts (preheat oven 300F)
+  - Bake (300F, 10 minutes). 
+  - Cool and dice up.
+- Prepare dough balls (preheat oven 340F)
+  - Mix all ingredients and roll into one large dough ball. 
+  - Let it set for half an hour.
+  - Separate into 55g per portion. 
+  - Press each on parchment paper into round shape, about 1/2 inch thick.
+  - Brush egg wash onto each one and spray sesame seeds on top. 
 - Bake (340F, 30 minutes)
 - Let cool at room temp (do not move, they crumble easily when they're hot)
 
