@@ -13,9 +13,9 @@
 - Salt: 3 grams (0.5 teaspoon)
 
 ### 1.2 Wall nuts
-- Walnuts: 300g </br>
+- Walnuts: 300g 
 
->*Boost your defense against zombie apocalypse with wall nuts*
+>*Boost your defense against zombie apocalypse with wall nuts* <br>
 ![Wallnut](https://static.wikia.nocookie.net/plantsvszombies/images/1/17/Wall-nut2.png/revision/latest?cb=20210908090053)
 
 ### 1.3 Finish
