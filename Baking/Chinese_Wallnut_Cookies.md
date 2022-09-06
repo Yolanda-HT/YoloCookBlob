@@ -14,6 +14,7 @@
 
 ### 1.2 Wallnuts
 - Walnuts: 300g
+![Wallnut](https://static.wikia.nocookie.net/plantsvszombies/images/1/17/Wall-nut2.png/revision/latest?cb=20210908090053)
 
 ### 1.3 Finish
 - Egg: one, bitten
