@@ -16,7 +16,7 @@
 - Walnuts: 300g 
 
 >*Boost your defense against zombie apocalypse with wall nuts* <br>
-![Wallnut](https://static.wikia.nocookie.net/plantsvszombies/images/1/17/Wall-nut2.png/revision/latest?cb=20210908090053)
+![Wallnut](wall_nut.png)
 
 ### 1.3 Finish
 - Egg: one, bitten
