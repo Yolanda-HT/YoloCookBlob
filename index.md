@@ -20,6 +20,8 @@
 
 ### Yolanda's Recommended Recipes
 - [**[Fish]** Lemon Butter Cod](https://www.cookingclassy.com/lemon-butter-cod-recipe/)
+- [**[Chicken]** Chicken with Creamy Mushroom Sage Sauce](https://www.simplyrecipes.com/recipes/chicken_breasts_with_mushroom_sage_sauce/)
+- [**[Chicken]** Chicken Brine](https://www.recipetineats.com/chicken-brine-recipe/)
 - [**[Korean]** Maangchi Easy Kimchi](https://www.maangchi.com/recipe/easy-kimchi)
 - [**[Korean]** Maangchi Traditional Napa Kimchi](https://www.maangchi.com/recipe/tongbaechu-kimchi)
 - [**[Korean]** Maangchi KBBQ Bulgogi](https://www.maangchi.com/recipe/bulgogi)
