@@ -20,6 +20,7 @@
 
 ### Yolanda's Recommended Recipes
 - [**[Fish]** Lemon Butter Cod](https://www.cookingclassy.com/lemon-butter-cod-recipe/)
+- [**[Fish]** Ahi Tuna Poke Wonton Nachos](https://lenaskitchenblog.com/ahi-tuna-poke-wonton-nachos/)
 - [**[Chicken]** Chicken with Creamy Mushroom Sage Sauce](https://www.simplyrecipes.com/recipes/chicken_breasts_with_mushroom_sage_sauce/)
 - [**[Chicken]** Chicken Brine](https://www.recipetineats.com/chicken-brine-recipe/)
 - [**[Korean]** Maangchi Easy Kimchi](https://www.maangchi.com/recipe/easy-kimchi)
@@ -38,6 +39,7 @@
 - [**[Sangaria]** Sangria! Sangria!](https://www.allrecipes.com/recipe/72612/sangria-sangria/)
 - [**[Cocktail]** Butterfly Pea Flower Tea Cocktail](https://sugarandcloth.com/magic-color-changing-mint-julep-recipe/)
 - [**[Cocktail]** Galaxy Magic Mule](https://www.gastronomblog.com/the-galaxy-magic-mule-a-vodka-moscow-mule/)
+- [**[Dessert]** Bourbon Caramel Sauce](https://www.goodlifeeats.com/caramel-sauce-with-vanilla-and-bourbon/)
 
 ## Boston area restaurant recommendations
 - [**[Small plates]** Lil Donkey](http://www.littledonkeybos.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb) Recommended by: Daphne
@@ -63,6 +65,7 @@
 - [**[Food Court]** Time Out Market](https://www.timeoutmarket.com/boston/) Recommended by: Nilushi
 - [**[Small plates]** Sarma Restaurant](https://www.sarmarestaurant.com/) Recommended by: Meghan
 - [**[Bakery]** Sofra](https://www.sofrabakery.com/) Recommended by: Meghan
+- [**[Chicken]** Chicken Brine](https://www.recipetineats.com/chicken-brine-recipe/)
 
 ### Tips
 - [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
