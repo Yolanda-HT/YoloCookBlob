@@ -40,8 +40,8 @@
 - [**[Sangaria]** Sangria! Sangria!](https://www.allrecipes.com/recipe/72612/sangria-sangria/)
 - [**[Cocktail]** Butterfly Pea Flower Tea Cocktail](https://sugarandcloth.com/magic-color-changing-mint-julep-recipe/)
 - [**[Cocktail]** Galaxy Magic Mule](https://www.gastronomblog.com/the-galaxy-magic-mule-a-vodka-moscow-mule/)
-- [**[Dessert]** Bourbon Caramel Sauce](https://www.goodlifeeats.com/caramel-sauce-with-vanilla-and-bourbon/)
-- [**[Soup]** The Best Clam Chowder](https://cooking.nytimes.com/recipes/1016717-the-best-clam-chowder)
+- [**[Dessert]** Bourbon Caramel Sauce](https://www.goodlifeeats.com/caramel-sauce-with-vanilla-and-bourbon/) * Yolo's version: double / triple booze!
+- [**[Soup]** The Best Clam Chowder](https://cooking.nytimes.com/recipes/1016717-the-best-clam-chowder) * Yolo's version on google sheets upon request
 - [**[Tea]** Apple Cinnamon Iced Tea](https://tasty.co/recipe/apple-cinnamon-iced-tea)
 
 ## Boston area restaurant recommendations
