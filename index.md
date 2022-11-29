@@ -33,6 +33,7 @@
 - [**[Mexican]** Yellow Rice](https://www.favfamilyrecipes.com/super-easy-yellow-rice/)
 - [**[Cuban]** Pollo a la Plancha](https://asassyspoon.com/pollo-a-la-plancha/)
 - [**[Vietnamese]** NYT pressure cooker beef pho](https://cooking.nytimes.com/recipes/1017521-pressure-cooker-beef-pho)
+- [**[Hawaiian]** Ahi Tuna Poke Wonton Nachos](https://lenaskitchenblog.com/ahi-tuna-poke-wonton-nachos/)
 - [**[Baking]** Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag) Recommended by: Mai
 - [**[Baking]** 4 ingredient smores pie](https://www.foodnetwork.com/recipes/food-network-kitchen/4-ingredient-smores-pie-3364596)
 - [**[Cocktail]** Lychee Magarita](https://www.food.com/recipe/lychee-margarita-100344)
@@ -40,6 +41,8 @@
 - [**[Cocktail]** Butterfly Pea Flower Tea Cocktail](https://sugarandcloth.com/magic-color-changing-mint-julep-recipe/)
 - [**[Cocktail]** Galaxy Magic Mule](https://www.gastronomblog.com/the-galaxy-magic-mule-a-vodka-moscow-mule/)
 - [**[Dessert]** Bourbon Caramel Sauce](https://www.goodlifeeats.com/caramel-sauce-with-vanilla-and-bourbon/)
+- [**[Soup]** The Best Clam Chowder](https://cooking.nytimes.com/recipes/1016717-the-best-clam-chowder)
+- [**[Tea]** Apple Cinnamon Iced Tea](https://tasty.co/recipe/apple-cinnamon-iced-tea)
 
 ## Boston area restaurant recommendations
 - [**[Small plates]** Lil Donkey](http://www.littledonkeybos.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb) Recommended by: Daphne
