@@ -34,7 +34,7 @@
 - [**[Cuban]** Pollo a la Plancha](https://asassyspoon.com/pollo-a-la-plancha/)
 - [**[Vietnamese]** NYT pressure cooker beef pho](https://cooking.nytimes.com/recipes/1017521-pressure-cooker-beef-pho)
 - [**[Hawaiian]** Ahi Tuna Poke Wonton Nachos](https://lenaskitchenblog.com/ahi-tuna-poke-wonton-nachos/)
-- [**[Baking]** Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag) Recommended by: Mai
+- [**[Baking]** Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag) * Recommended by Mai
 - [**[Baking]** 4 ingredient smores pie](https://www.foodnetwork.com/recipes/food-network-kitchen/4-ingredient-smores-pie-3364596)
 - [**[Cocktail]** Lychee Magarita](https://www.food.com/recipe/lychee-margarita-100344)
 - [**[Sangaria]** Sangria! Sangria!](https://www.allrecipes.com/recipe/72612/sangria-sangria/)
