@@ -43,6 +43,7 @@
 - [**[Dessert]** Bourbon Caramel Sauce](https://www.goodlifeeats.com/caramel-sauce-with-vanilla-and-bourbon/) * Yolo's version: double / triple booze!
 - [**[Soup]** The Best Clam Chowder](https://cooking.nytimes.com/recipes/1016717-the-best-clam-chowder) * Yolo's version on google sheets upon request
 - [**[Tea]** Apple Cinnamon Iced Tea](https://tasty.co/recipe/apple-cinnamon-iced-tea)
+- [**[Chicken]** Chicken Brine](https://www.recipetineats.com/chicken-brine-recipe/)
 
 ## Boston area restaurant recommendations
 - [**[Small plates]** Lil Donkey](http://www.littledonkeybos.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb) Recommended by: Daphne
@@ -66,9 +67,10 @@
 - [**[Japanese]** Gyu-Kaku](https://www.gyu-kaku.com/cambridge-harvard-square) Recommended by: Yolanda
 - [**[Japanese]** Kura Sushi](https://kurasushi.com/locations/watertown-ma/) Recommended by: Yolanda
 - [**[Food Court]** Time Out Market](https://www.timeoutmarket.com/boston/) Recommended by: Nilushi
-- [**[Small plates]** Sarma Restaurant](https://www.sarmarestaurant.com/) Recommended by: Meghan
+- [**[Small plates]** Sarma Restaurant](https://www.sarmarestaurant.com/) Recommended by: Meghan & Raquel
 - [**[Bakery]** Sofra](https://www.sofrabakery.com/) Recommended by: Meghan
-- [**[Chicken]** Chicken Brine](https://www.recipetineats.com/chicken-brine-recipe/)
+- [**[Greek]** Krasi](https://krasiboston.com/?utm_source=google&utm_medium=organic&utm_campaign=Google_My_Business) Recommended by: Daphne
+- [**[Greek]** Kava](https://kavaneotaverna.com/) Recommended by: Daphne
 
 ### Tips
 - [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
