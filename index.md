@@ -70,6 +70,11 @@
 - [**[Mexican]** Taqueria Don Roge](http://taqueriadonroge.com/) Recommended by: Yolanda
 - [**[Mexican]** La Oaxaquena 2](https://www.seamless.com/menu/la-oaxaquena-two-362-ferry-st-everett/3348886) Recommended by: Daniel
 - [**[Hot pot]** Shu Daxia](https://www.yelp.com/biz/shu-daxia-hot-pot-boston-2) Recommended by: Ellen
+- [**[Chinese]** Noah's Kitchen](https://www.noahs.kitchen/) Recommended by: Yolanda
+- [**[Chinese]** Mu Lan](https://mulantaiwancambridge.com/) Recommended by: Xiaoguang & Yujung
+- [**[Chinese]** Sumiao](https://www.sumiaohunan.com/) Recommended by: Xiaoguang
+- [**[Uyghur]** Silk Road](https://www.silkroadcambridge.com/) Recommended by: Brandon
+- [**[Chinese]** Bun's House](https://www.bunshouseeverettma.com/) Recommended by: Zack
 
 ## Boston area bars & breweries
 - [**[Tiki bar]** Wusong Road Tikki Bar](https://www.wusongroad.com/) Recommended by: Akhil
