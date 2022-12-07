@@ -68,13 +68,15 @@
 - [**[Greek]** Krasi](https://krasiboston.com/?utm_source=google&utm_medium=organic&utm_campaign=Google_My_Business) Recommended by: Daphne
 - [**[Greek]** Kava](https://kavaneotaverna.com/) Recommended by: Daphne
 - [**[Mexican]** Taqueria Don Roge](http://taqueriadonroge.com/) Recommended by: Yolanda
+- [**[Mexican]** La Oaxaquena 2](https://www.seamless.com/menu/la-oaxaquena-two-362-ferry-st-everett/3348886) Recommended by: Daniel
+- [**[Hot pot]** Shu Daxia](https://www.yelp.com/biz/shu-daxia-hot-pot-boston-2) Recommended by: Ellen
 
 ## Boston area bars & breweries
 - [**[Tiki bar]** Wusong Road Tikki Bar](https://www.wusongroad.com/) Recommended by: Akhil
 
 ## Boston area speciaty markets & farmer's markets
 - [**[Farmer's Market]** Boston Public Market](https://bostonpublicmarket.org/) Recommended by: Yolanda
-- [**[Italian Market]** Eataly](https://www.eataly.com/us_en/stores/boston/) Recommended by: Katya
+- [**[Italian]** Eataly](https://www.eataly.com/us_en/stores/boston/) Recommended by: Katya
 - [**[Farmer's Market]** Sowa Open Market](https://www.sowaboston.com/sowa-open-market/) Recommended by: Nilushi
 - [**[Greek]** Sophia's Greek Pantry](http://www.sophiasgreekpantry.com/) Recommended by: Daphne
 - [**[Asian]** 99 Asian Supermarket](https://www.yelp.com/biz/99-asian-supermarket-malden) Recommended by: Yolanda
