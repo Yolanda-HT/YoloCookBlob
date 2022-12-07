@@ -46,20 +46,17 @@
 - [**[Chicken]** Chicken Brine](https://www.recipetineats.com/chicken-brine-recipe/)
 
 ## Boston area restaurant recommendations
-- [**[Small plates]** Lil Donkey](http://www.littledonkeybos.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb) Recommended by: Daphne
+- [**[Tapas]** Lil Donkey](http://www.littledonkeybos.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb) Recommended by: Daphne
 - [**[Taco]** Naco Taco](https://www.nacocentral.com/) Recommended by: Adam
 - [**[Taco]** Felipe's Taquria](https://www.felipesboston.com/) Recommended by: Daphne
 - [**[Wine bar]** Barcelona](https://barcelonawinebar.com/) Recommended by: Adam
 - [**[Indian]** The Maharaja](https://maharajaboston.com/) Recommended by: Daphne
 - [**[French]** Mistral](https://mistralbistro.com/) Recommended by: Katya
 - [**[Columiban]** La Casa Del Pandebono](https://lacasadelpandebono.business.site/?utm_source=gmb&utm_medium=referral) Recommended by: Yolanda
-- [**[Dessert]** Pastiche Fine Desserts](https://pastichefinedesserts.com/) Recommended by: Ellen (Rhode Island)
 - [**[Chinese]** Go Chi](http://places.singleplatform.com/go-chi/menu?ref=google) Recommended by: Xiaoguang
 - [**[Seafood]** Alive & Kicking Lobsters](http://places.singleplatform.com/alive--kicking-lobsters/menu?ref=google) Recommended by: Daniel
-- [**[Cafe]** Cafe Landwer](https://www.landwercafe.com/) Recommended by: Asaf
 - [**[Tapas]** Toro](https://www.toro-restaurant.com/) Recommended by: Asaf
 - [**[Italian]** Copa](https://www.coppaboston.com/) Recommended by: Asaf
-- [**[Cafe]** Tatte Bakery & Cafe](https://tattebakery.com/) Recommended by: Asaf
 - [**[Russian]** Mari Vanna](https://www.marivanna.ru/en/) Recommended by: Katya
 - [**[Italian]** Trattoria Il Panino](https://www.trattoriailpanino.com/) Recommended by: Nilushi
 - [**[French Fusion]** Coquette](https://www.frenchcoquette.com/) Recommended by: Nilushi
@@ -67,10 +64,32 @@
 - [**[Japanese]** Gyu-Kaku](https://www.gyu-kaku.com/cambridge-harvard-square) Recommended by: Yolanda
 - [**[Japanese]** Kura Sushi](https://kurasushi.com/locations/watertown-ma/) Recommended by: Yolanda
 - [**[Food Court]** Time Out Market](https://www.timeoutmarket.com/boston/) Recommended by: Nilushi
-- [**[Small plates]** Sarma Restaurant](https://www.sarmarestaurant.com/) Recommended by: Meghan & Raquel
-- [**[Bakery]** Sofra](https://www.sofrabakery.com/) Recommended by: Meghan
+- [**[Tapas]** Sarma Restaurant](https://www.sarmarestaurant.com/) Recommended by: Meghan & Raquel
 - [**[Greek]** Krasi](https://krasiboston.com/?utm_source=google&utm_medium=organic&utm_campaign=Google_My_Business) Recommended by: Daphne
 - [**[Greek]** Kava](https://kavaneotaverna.com/) Recommended by: Daphne
+- [**[Mexican]** Taqueria Don Roge](http://taqueriadonroge.com/) Recommended by: Yolanda
+
+## Boston area bars & breweries
+- [**[Tiki bar]** Wusong Road Tikki Bar](https://www.wusongroad.com/) Recommended by: Akhil
+
+## Boston area speciaty markets & farmer's markets
+- [**[Farmer's Market]** Boston Public Market](https://bostonpublicmarket.org/) Recommended by: Yolanda
+- [**[Italian Market]** Eataly](https://www.eataly.com/us_en/stores/boston/) Recommended by: Katya
+- [**[Farmer's Market]** Sowa Open Market](https://www.sowaboston.com/sowa-open-market/) Recommended by: Nilushi
+- [**[Greek]** Sophia's Greek Pantry](http://www.sophiasgreekpantry.com/) Recommended by: Daphne
+- [**[Asian]** 99 Asian Supermarket](https://www.yelp.com/biz/99-asian-supermarket-malden) Recommended by: Yolanda
+- [**[Cheesemonger]** Formmagio Kitchen](https://www.formaggiokitchen.com/) Recommended by: Brandon
+- [**[Pasta & Groceries]** Dave's Fresh Pasta](https://www.davesfreshpasta.com/) Recommended by: Coleen
+
+## Boston area bakery & dessert
+- [**[Bakery]** Sofra](https://www.sofrabakery.com/) Recommended by: Meghan
+- [**[French]** Praline](https://www.pralinepatisseries.com/) Recommended by: Yolanda
+- [**[Dessert]** Pastiche Fine Desserts](https://pastichefinedesserts.com/) Recommended by: Ellen (Rhode Island)
+
+## Boston area cafes
+- [**[Cafe]** Cafe Landwer](https://www.landwercafe.com/) Recommended by: Asaf
+- [**[Cafe]** Tatte Bakery & Cafe](https://tattebakery.com/) Recommended by: Asaf
+- [**[Cafe]** Trident Booksellers & Cafe](https://www.tridentbookscafe.com/) Recommended by: Yolanda & Katya
 
 ### Tips
 - [Bread Tips for Beginners](Bread/BreadTipsForBeginners.MD)
