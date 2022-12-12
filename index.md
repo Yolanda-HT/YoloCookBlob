@@ -4,7 +4,7 @@
 
 > Yolanda (Huitian) Diao
 
-### My Recipes
+## My Recipes
 - [Soy Sauce Glazed Eggs (Ajitsuke Tamago)](Egg/Ajitsuke_Tamago.md)
 - [Moo Shu Chicken](Chicken/Moo_Shu_Chicken.MD)
 - [Copycat Costco Garlic BBQ Chicken (to be updated)](Chicken/CopycatCostcoGarlicBBQChicken.MD)
@@ -18,32 +18,48 @@
 - [Christine's spiced nuts](Baking/Christines_Spiced_Nuts.MD)
 - [Chinese Wallnut Cookies](Baking/Chinese_Wallnut_Cookies.md)
 
-### Yolanda's Recommended Recipes
-- [**[Fish]** Lemon Butter Cod](https://www.cookingclassy.com/lemon-butter-cod-recipe/)
-- [**[Fish]** Ahi Tuna Poke Wonton Nachos](https://lenaskitchenblog.com/ahi-tuna-poke-wonton-nachos/)
+## Yolanda's Recommended Recipes
+#### Poultry
 - [**[Chicken]** Chicken with Creamy Mushroom Sage Sauce](https://www.simplyrecipes.com/recipes/chicken_breasts_with_mushroom_sage_sauce/)
 - [**[Chicken]** Chicken Brine](https://www.recipetineats.com/chicken-brine-recipe/)
+- [**[Mexican]** Grilled Chicken (Pollo Asado)](https://keviniscooking.com/how-to-make-pollo-asado/)
+- [**[Cuban]** Pollo a la Plancha](https://asassyspoon.com/pollo-a-la-plancha/)
+
+#### Seafood
+- [**[Fish]** Lemon Butter Cod](https://www.cookingclassy.com/lemon-butter-cod-recipe/)
+- [**[Hawaiian]** Ahi Tuna Poke Wonton Nachos](https://lenaskitchenblog.com/ahi-tuna-poke-wonton-nachos/)
+- [**[Soup]** The Best Clam Chowder](https://cooking.nytimes.com/recipes/1016717-the-best-clam-chowder) * Yolo's version on google sheets upon request
+
+#### Pickled
 - [**[Korean]** Maangchi Easy Kimchi](https://www.maangchi.com/recipe/easy-kimchi)
 - [**[Korean]** Maangchi Traditional Napa Kimchi](https://www.maangchi.com/recipe/tongbaechu-kimchi)
+
+#### Meat
 - [**[Korean]** Maangchi KBBQ Bulgogi](https://www.maangchi.com/recipe/bulgogi)
 - [**[Indian]** Lamb Masala](https://veenaazmanov.com/indian-slow-cooked-lamb-masala-aka-mutton-masala/)
 - [**[Indian]** Chicken Tikka Masala](https://tasty.co/recipe/homemade-chicken-tikka-masala)
-- [**[Indian]** Garlic Naan](https://www.cookwithmanali.com/restaurant-style-garlic-naan/)
-- [**[Mexican]** Grilled Chicken (Pollo Asado)](https://keviniscooking.com/how-to-make-pollo-asado/)
-- [**[Mexican]** Yellow Rice](https://www.favfamilyrecipes.com/super-easy-yellow-rice/)
-- [**[Cuban]** Pollo a la Plancha](https://asassyspoon.com/pollo-a-la-plancha/)
 - [**[Vietnamese]** NYT pressure cooker beef pho](https://cooking.nytimes.com/recipes/1017521-pressure-cooker-beef-pho)
-- [**[Hawaiian]** Ahi Tuna Poke Wonton Nachos](https://lenaskitchenblog.com/ahi-tuna-poke-wonton-nachos/)
-- [**[Baking]** Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag) * Recommended by Mai
-- [**[Baking]** 4 ingredient smores pie](https://www.foodnetwork.com/recipes/food-network-kitchen/4-ingredient-smores-pie-3364596)
+
+#### Bread, Rice, Pasta
+- [**[Indian]** Garlic Naan](https://www.cookwithmanali.com/restaurant-style-garlic-naan/)
+- [**[Mexican]** Yellow Rice](https://www.favfamilyrecipes.com/super-easy-yellow-rice/)
+
+#### Dessert
+- [**[Cake]** Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag) * Recommended by Mai
+- [**[Pie]** 4 ingredient smores pie](https://www.foodnetwork.com/recipes/food-network-kitchen/4-ingredient-smores-pie-3364596)
+- [**[Dessert]** Bourbon Caramel Sauce](https://www.goodlifeeats.com/caramel-sauce-with-vanilla-and-bourbon/) * Yolo's version: double / triple booze!
+- [**[Pie Crust]** Holiday Gingersnap Pie Crust](https://www.allrecipes.com/recipe/240169/holiday-ginger-snap-crust/)
+- [**[Pie Crust]** Gingersnap Pie Crust (with walnuts)](https://theviewfromgreatisland.com/how-to-make-a-gingersnap-pie-crust/)
+- [**[Cheesecake]** Double Layer Pumpkin Cheesecake](https://www.allrecipes.com/recipe/13477/double-layer-pumpkin-cheesecake/)
+- [**[Cheesecake]** Raspberry Cheesecake](Food Network)
+
+#### Drinks
 - [**[Cocktail]** Lychee Magarita](https://www.food.com/recipe/lychee-margarita-100344)
 - [**[Sangaria]** Sangria! Sangria!](https://www.allrecipes.com/recipe/72612/sangria-sangria/)
 - [**[Cocktail]** Butterfly Pea Flower Tea Cocktail](https://sugarandcloth.com/magic-color-changing-mint-julep-recipe/)
 - [**[Cocktail]** Galaxy Magic Mule](https://www.gastronomblog.com/the-galaxy-magic-mule-a-vodka-moscow-mule/)
-- [**[Dessert]** Bourbon Caramel Sauce](https://www.goodlifeeats.com/caramel-sauce-with-vanilla-and-bourbon/) * Yolo's version: double / triple booze!
-- [**[Soup]** The Best Clam Chowder](https://cooking.nytimes.com/recipes/1016717-the-best-clam-chowder) * Yolo's version on google sheets upon request
 - [**[Tea]** Apple Cinnamon Iced Tea](https://tasty.co/recipe/apple-cinnamon-iced-tea)
-- [**[Chicken]** Chicken Brine](https://www.recipetineats.com/chicken-brine-recipe/)
+
 
 ## Boston area restaurant recommendations
 - [**[Tapas]** Lil Donkey](http://www.littledonkeybos.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb) Recommended by: Daphne
@@ -75,6 +91,7 @@
 - [**[Chinese]** Sumiao](https://www.sumiaohunan.com/) Recommended by: Xiaoguang
 - [**[Uyghur]** Silk Road](https://www.silkroadcambridge.com/) Recommended by: Brandon
 - [**[Chinese]** Bun's House](https://www.bunshouseeverettma.com/) Recommended by: Zack
+- [**[Venezuelan]** Don Tequeño y Doña Arepa](https://www.clover.com/online-ordering/don-tequeo-y-doa-arepa-boston) Recommended by: Yolanda
 
 ## Boston area bars & breweries
 - [**[Tiki bar]** Wusong Road Tikki Bar](https://www.wusongroad.com/) Recommended by: Akhil
