@@ -46,6 +46,7 @@
 
 #### Dessert
 - [**[Cake]** Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag) * Recommended by Mai
+- [**[Cookie]** Taylor Swift Chai Sugar Cookies](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiV8piA__b7AhXYSPEDHTe1CNoQFnoECA4QAQ&url=https%3A%2F%2Fjoythebaker.com%2F2021%2F11%2Ftaylor-swifts-chai-sugar-cookies%2F&usg=AOvVaw2UTdAS5NsNqBZlfLcEKn_p&cshid=1670948191463473)
 - [**[Pie]** 4 ingredient smores pie](https://www.foodnetwork.com/recipes/food-network-kitchen/4-ingredient-smores-pie-3364596)
 - [**[Dessert]** Bourbon Caramel Sauce](https://www.goodlifeeats.com/caramel-sauce-with-vanilla-and-bourbon/) * Yolo's version: double / triple booze!
 - [**[Pie Crust]** Holiday Gingersnap Pie Crust](https://www.allrecipes.com/recipe/240169/holiday-ginger-snap-crust/)
