@@ -6,6 +6,7 @@
 
 ## My Recipes
 - [Soy Sauce Glazed Eggs (Ajitsuke Tamago)](Egg/Ajitsuke_Tamago.md)
+- [Easy Crispy Salmon with Skin](Seafood/EasyCrispySalmonWithSkin.MD)
 - [Moo Shu Chicken](Chicken/Moo_Shu_Chicken.MD)
 - [Copycat Costco Garlic BBQ Chicken](Chicken/CopycatCostcoGarlicBBQChicken.MD)
 - [Mexican Grilled Chicken](Chicken/MexicanGrilledChicken.MD)
