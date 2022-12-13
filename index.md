@@ -9,7 +9,7 @@
 - [Moo Shu Chicken](Chicken/Moo_Shu_Chicken.MD)
 - [Copycat Costco Garlic BBQ Chicken](Chicken/CopycatCostcoGarlicBBQChicken.MD)
 - [Mexican Grilled Chicken](Chicken/MexicanGrilledChicken.MD)
-- [Garlic Grilled Chicken](Chicken/GarlicGrilledChicken.MD)
+- [Garlic Oven Baked Chicken](Chicken/GarlicOvenBakedChicken.MD)
 - [Copycat KFC Buttermilk Fried Chicken](Chicken/Copycat_KFC_Buttermilk_Fried_Chicken.MD)
 - [Rosemary Pork Chops](Pork/RosemaryPorkChops.MD)
 - [Garlic Pork Ribs](Pork/Garlic_Pork_Ribs.MD)
