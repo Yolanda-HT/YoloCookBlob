@@ -1,4 +1,6 @@
-Bead Making Tips:
+[Main Page](https://yolanda-ht.github.io/YoloCookBlob/)
+
+## Bead Making Tips:
 
 1. Flour:
     - For dessert rolls, all purpose is okay. But with all purpose flour, you will not be able to knead to elastic film like stage
