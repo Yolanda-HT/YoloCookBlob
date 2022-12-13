@@ -16,7 +16,7 @@
 - [Pan Fried Korean BBQ Beef (Bulgogi)](Beef/PanFriedKoreanBBQBeef.MD)
 - [Taro Boba Tea](Sweets/Taro_Boba_Tea.md)
 - [Christine's spiced nuts](Baking/Christines_Spiced_Nuts.MD)
-- [Chinese Wallnut Cookies](Baking/Chinese_Wallnut_Cookies.md)
+- [Chinese Walnut Cookies](Baking/Chinese_Walnut_Cookies.md)
 
 ## Yolanda's Recommended Recipes
 #### Poultry
