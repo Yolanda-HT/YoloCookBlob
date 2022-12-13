@@ -1,6 +1,6 @@
 [Main Page](https://yolanda-ht.github.io/YoloCookBlob/)
 
-# Garlic Oven Grilled Chicken
+# Garlic Oven Baked Chicken
 > 12/13/2022 <br>
 > Servings: 8
 
