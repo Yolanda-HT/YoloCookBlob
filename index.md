@@ -16,7 +16,7 @@
 - [Garlic Pork Ribs](Pork/Garlic_Pork_Ribs.MD)
 - [Pan Fried Korean BBQ Beef (Bulgogi)](Beef/PanFriedKoreanBBQBeef.MD)
 - [Taro Boba Tea](Sweets/Taro_Boba_Tea.md)
-- [Christine's spiced nuts](Baking/Christines_Spiced_Nuts.MD)
+- [Christine's Spiced Nuts](Baking/Christines_Spiced_Nuts.MD)
 - [Chinese Walnut Cookies](Baking/Chinese_Walnut_Cookies.md)
 
 ## Yolanda's Recommended Recipes
