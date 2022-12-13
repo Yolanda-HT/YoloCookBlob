@@ -1,6 +1,6 @@
 [Main Page](https://yolanda-ht.github.io/YoloCookBlob/)
 
-# Moo Shu Chicken
+# Garlic Oven Grilled Chicken
 > 12/13/2022 <br>
 > Servings: 8
 
