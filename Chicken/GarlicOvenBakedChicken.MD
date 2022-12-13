@@ -5,7 +5,7 @@
 > Servings: 8
 
 ## 1. Ingredients
-Marinade for 4lbs chicken thighs
+Marinade for 4 lbs chicken thighs
 - Oyster sauce: 1tbsp
 - Hoisin sauce: 1 tbsp
 - Soy sauce: 2 tbsps
