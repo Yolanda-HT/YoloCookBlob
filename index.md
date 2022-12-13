@@ -65,7 +65,7 @@
 
 #### Drinks
 - [**[Cocktail]** Lychee Magarita](https://www.food.com/recipe/lychee-margarita-100344)
-- [**[Cocktail** Salted Plum Magarita](https://www.patrontequila.com/cocktails/patron-silver/salted-plum-margarita.html)
+- [**[Cocktail]** Salted Plum Magarita](https://www.patrontequila.com/cocktails/patron-silver/salted-plum-margarita.html)
 - [**[Sangaria]** Sangria! Sangria!](https://www.allrecipes.com/recipe/72612/sangria-sangria/)
 - [**[Cocktail]** Butterfly Pea Flower Tea Cocktail](https://sugarandcloth.com/magic-color-changing-mint-julep-recipe/)
 - [**[Cocktail]** Galaxy Magic Mule](https://www.gastronomblog.com/the-galaxy-magic-mule-a-vodka-moscow-mule/)
