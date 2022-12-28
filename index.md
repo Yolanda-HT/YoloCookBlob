@@ -23,6 +23,7 @@
 #### Poultry
 - [**[Chicken]** Chicken with Creamy Mushroom Sage Sauce](https://www.simplyrecipes.com/recipes/chicken_breasts_with_mushroom_sage_sauce/)
 - [**[Chicken]** Chicken Brine](https://www.recipetineats.com/chicken-brine-recipe/)
+- [**[Chicken]** Creamy Chicken Quinoa Broccoli Casserole](https://pinchofyum.com/creamy-chicken-quinoa-broccoli-casserole)
 - [**[Mexican]** Grilled Chicken (Pollo Asado)](https://keviniscooking.com/how-to-make-pollo-asado/)
 - [**[Cuban]** Pollo a la Plancha](https://asassyspoon.com/pollo-a-la-plancha/)
 - [**[Chinese]** Stir Fry Chicken with Cashew](https://youtu.be/a5y9V1Y1jjY)
@@ -50,18 +51,23 @@
 - [**[Sweet Bread]** Fluffy Pastry Butter Bread](https://youtu.be/g9rtAvEXfVc)
 - [**[Korean Pancake]** Vegetable Pancake (Yachaejeon)](https://youtu.be/knxgR5esJu4)
 
+#### Vegetable
+- [**[Soup]** Butternt Squash Soup](https://www.loveandlemons.com/butternut-squash-soup/)
+
 #### Dessert
 - [**[Cake]** Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag) * Recommended by Mai
 - [**[Cake]** Chocolate Cotton Sponge Cake](https://youtu.be/hNw6NaxNLLU)
+- [**[Cake]** Preppy Kitchen - Pumpkin Cupcake](https://preppykitchen.com/pumpkin-spice-cupcakes/)
 - [**[Tiramisu]** Matcha Tiramisu](https://youtu.be/KPro1gn8uX8)
-- [**[Cookie]** Taylor Swift Chai Sugar Cookies](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiV8piA__b7AhXYSPEDHTe1CNoQFnoECA4QAQ&url=https%3A%2F%2Fjoythebaker.com%2F2021%2F11%2Ftaylor-swifts-chai-sugar-cookies%2F&usg=AOvVaw2UTdAS5NsNqBZlfLcEKn_p&cshid=1670948191463473)
+- [**[Cookie]** Taylor Swift Chai Sugar Cookies](https://joythebaker.com/2021/11/taylor-swifts-chai-sugar-cookies/)
 - [**[Pie]** 4 ingredient smores pie](https://www.foodnetwork.com/recipes/food-network-kitchen/4-ingredient-smores-pie-3364596)
 - [**[Dessert]** Bourbon Caramel Sauce](https://www.goodlifeeats.com/caramel-sauce-with-vanilla-and-bourbon/) * Yolo's version: double / triple booze!
 - [**[Pie Crust]** Holiday Gingersnap Pie Crust](https://www.allrecipes.com/recipe/240169/holiday-ginger-snap-crust/)
 - [**[Pie Crust]** Gingersnap Pie Crust (with walnuts)](https://theviewfromgreatisland.com/how-to-make-a-gingersnap-pie-crust/)
 - [**[Cheesecake]** Double Layer Pumpkin Cheesecake](https://www.allrecipes.com/recipe/13477/double-layer-pumpkin-cheesecake/)
 - [**[Cheesecake]** 10 minutes Basque Burnt Cheesecake](https://youtu.be/jOzHvXv_rvM)
-- [**[Cheesecake]** Raspberry Cheesecake](Food Network)
+- [**[Cheesecake]** Raspberry Cheesecake](https://www.foodnetwork.com/recipes/ina-garten/raspberry-cheesecake-recipe-1942041)
+- [**[Fruit]** Plum Preserve](https://www.frenchcreekfarmhouse.com/2021/11/plum-preserves.html)
 
 
 #### Drinks
