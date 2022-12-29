@@ -55,7 +55,7 @@
 #### Vegetable & Root Vegetables
 - [**[Soup]** Butternut Squash Soup](https://www.loveandlemons.com/butternut-squash-soup/)
 - [**[Side]** Roasted Brussel Sprouts](https://www.loveandlemons.com/roasted-brussels-sprouts/) * Works well with squashes too
-- [**[Side]** Creamy Mashed Potatoes](https://natashaskitchen.com/creamy-mashed-potatoes-recipe/)
+- [**[Side]** Make Ahead Creamy Mashed Pototoes (Restaurant Trick)](https://www.recipetineats.com/make-ahead-creamy-mashed-potatoes-restaurant-trick/)
 
 #### Dessert
 - [**[Cake]** Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag) * Recommended by Mai
