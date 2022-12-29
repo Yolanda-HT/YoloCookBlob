@@ -43,6 +43,7 @@
 - [**[Indian]** Pressure Cooker Mutton Biryani](https://youtu.be/0sAT8Gvm0Cs)
 - [**[Indian]** Chicken Tikka Masala](https://tasty.co/recipe/homemade-chicken-tikka-masala)
 - [**[Vietnamese]** NYT pressure cooker beef pho](https://cooking.nytimes.com/recipes/1017521-pressure-cooker-beef-pho)
+- [**[French]** Beef Bourguignon](https://www.recipetineats.com/beef-bourguignon-beef-burgundy/)
 
 #### Bread, Rice, Pasta
 - [**[Indian]** Garlic Naan](https://www.cookwithmanali.com/restaurant-style-garlic-naan/)
@@ -51,8 +52,10 @@
 - [**[Sweet Bread]** Fluffy Pastry Butter Bread](https://youtu.be/g9rtAvEXfVc)
 - [**[Korean Pancake]** Vegetable Pancake (Yachaejeon)](https://youtu.be/knxgR5esJu4)
 
-#### Vegetable
-- [**[Soup]** Butternt Squash Soup](https://www.loveandlemons.com/butternut-squash-soup/)
+#### Vegetable & Root Vegetables
+- [**[Soup]** Butternut Squash Soup](https://www.loveandlemons.com/butternut-squash-soup/)
+- [**[Side]** Roasted Brussel Sprouts](https://www.loveandlemons.com/roasted-brussels-sprouts/) * Works well with squashes too
+- [**[Side]** Creamy Mashed Potatoes](https://natashaskitchen.com/creamy-mashed-potatoes-recipe/)
 
 #### Dessert
 - [**[Cake]** Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag) * Recommended by Mai
