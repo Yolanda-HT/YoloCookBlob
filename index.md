@@ -97,6 +97,7 @@
 - [**[Cuban]** Jamaica Plain area] Recommended by: Miles
 - [**[Japanese]** Gyu-Kaku](https://www.gyu-kaku.com/cambridge-harvard-square) Recommended by: Yolanda
 - [**[Japanese]** Kura Sushi](https://kurasushi.com/locations/watertown-ma/) Recommended by: Yolanda
+- [**[Ramen]** Isshindo](https://www.isshindoramen.com) Recommenede by: Yolanda (Average IMO, but easy parking)
 - [**[Food Court]** Time Out Market](https://www.timeoutmarket.com/boston/) Recommended by: Nilushi
 - [**[Tapas]** Sarma Restaurant](https://www.sarmarestaurant.com/) Recommended by: Meghan & Raquel
 - [**[Greek]** Krasi](https://krasiboston.com/?utm_source=google&utm_medium=organic&utm_campaign=Google_My_Business) Recommended by: Daphne
