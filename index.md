@@ -18,6 +18,7 @@
 - [Taro Boba Tea](Sweets/Taro_Boba_Tea.md)
 - [Christine's Spiced Nuts](Baking/Christines_Spiced_Nuts.MD)
 - [Chinese Walnut Cookies](Baking/Chinese_Walnut_Cookies.md)
+- [Cranberry Orange Spread](Sauces/Cranberry_Orange_Spread.MD)
 
 ## Yolanda's Recommended Recipes
 #### Poultry
@@ -56,6 +57,9 @@
 - [**[Soup]** Butternut Squash Soup](https://www.loveandlemons.com/butternut-squash-soup/)
 - [**[Side]** Roasted Brussel Sprouts](https://www.loveandlemons.com/roasted-brussels-sprouts/) * Works well with squashes too
 - [**[Side]** Make Ahead Creamy Mashed Pototoes (Restaurant Trick)](https://www.recipetineats.com/make-ahead-creamy-mashed-potatoes-restaurant-trick/)
+
+### Sauces & Paste & Spread
+- [**[Hummus]** Best Hummus Recipe](https://cookieandkate.com/best-hummus-recipe/)
 
 #### Dessert
 - [**[Cake]** Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag) * Recommended by Mai
