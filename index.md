@@ -61,7 +61,7 @@
 - [**[Side]** Make Ahead Creamy Mashed Pototoes (Restaurant Trick)](https://www.recipetineats.com/make-ahead-creamy-mashed-potatoes-restaurant-trick/)
 - [**[Side]** Air Fryer Parsnips](https://veggiedesserts.com/air-fryer-parsnips/)
 
-### Sauces & Paste & Spread
+#### Sauces & Paste & Spread
 - [**[Hummus]** Best Hummus Recipe](https://cookieandkate.com/best-hummus-recipe/)
 
 #### Dessert
@@ -88,7 +88,6 @@
 - [**[Cocktail]** Galaxy Magic Mule](https://www.gastronomblog.com/the-galaxy-magic-mule-a-vodka-moscow-mule/)
 - [**[Cocktail]** Passion Fruit Daiquiri](https://senseandedibility.com/classic-passion-fruit-daiquiri/)
 - [**[Tea]** Apple Cinnamon Iced Tea](https://tasty.co/recipe/apple-cinnamon-iced-tea)
-
 
 ## Boston area restaurant recommendations
 - [**[Tapas]** Lil Donkey](http://www.littledonkeybos.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb) Recommended by: Daphne
