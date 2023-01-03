@@ -32,6 +32,7 @@
 
 #### Seafood
 - [**[Fish]** Lemon Butter Cod](https://www.cookingclassy.com/lemon-butter-cod-recipe/)
+- [**[Pasta]** Hokkido Cream Miso Salmon Pasta](https://www.masa.tw/%e7%b0%a1%e5%96%ae%e6%96%99%e7%90%86%e9%a3%9f%e8%ad%9c/%e7%be%a9%e5%a4%a7%e5%88%a9%e9%ba%b5%e9%a3%9f%e8%ad%9c-%e5%8c%97%e6%b5%b7%e9%81%93%e9%83%b7%e5%9c%9f%e9%a2%a8%e9%ae%ad%e9%ad%9a%e5%91%b3%e5%99%8c%e5%a5%b6%e6%b2%b9%e9%86%ac%e7%be%a9%e5%a4%a7%e5%88%a9.html)
 - [**[Hawaiian]** Ahi Tuna Poke Wonton Nachos](https://lenaskitchenblog.com/ahi-tuna-poke-wonton-nachos/)
 - [**[Soup]** The Best Clam Chowder](https://cooking.nytimes.com/recipes/1016717-the-best-clam-chowder) * Yolo's version on google sheets upon request
 
@@ -58,6 +59,7 @@
 - [**[Soup]** Butternut Squash Soup](https://www.loveandlemons.com/butternut-squash-soup/)
 - [**[Side]** Roasted Brussel Sprouts](https://www.loveandlemons.com/roasted-brussels-sprouts/) * Works well with squashes too
 - [**[Side]** Make Ahead Creamy Mashed Pototoes (Restaurant Trick)](https://www.recipetineats.com/make-ahead-creamy-mashed-potatoes-restaurant-trick/)
+- [**[Side]** Air Fryer Parsnips](https://veggiedesserts.com/air-fryer-parsnips/)
 
 ### Sauces & Paste & Spread
 - [**[Hummus]** Best Hummus Recipe](https://cookieandkate.com/best-hummus-recipe/)
@@ -84,6 +86,7 @@
 - [**[Sangaria]** Sangria! Sangria!](https://www.allrecipes.com/recipe/72612/sangria-sangria/)
 - [**[Cocktail]** Butterfly Pea Flower Tea Cocktail](https://sugarandcloth.com/magic-color-changing-mint-julep-recipe/)
 - [**[Cocktail]** Galaxy Magic Mule](https://www.gastronomblog.com/the-galaxy-magic-mule-a-vodka-moscow-mule/)
+- [**[Cocktail]** Passion Fruit Daiquiri](https://senseandedibility.com/classic-passion-fruit-daiquiri/)
 - [**[Tea]** Apple Cinnamon Iced Tea](https://tasty.co/recipe/apple-cinnamon-iced-tea)
 
 
