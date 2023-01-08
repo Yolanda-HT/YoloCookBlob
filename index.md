@@ -20,6 +20,7 @@
 - [Christine's Spiced Nuts](Baking/Christines_Spiced_Nuts.MD)
 - [Chinese Walnut Cookies](Baking/Chinese_Walnut_Cookies.md)
 - [Cranberry Orange Spread](Sauces/Cranberry_Orange_Spread.MD)
+- [Lava sauce (for sushi rolls)](Sauces/Lava_Sauce.MD)
 
 ## Yolanda's Recommended Recipes
 #### Poultry
