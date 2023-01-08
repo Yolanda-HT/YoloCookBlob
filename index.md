@@ -48,6 +48,7 @@
 - [**[Indian]** Chicken Tikka Masala](https://tasty.co/recipe/homemade-chicken-tikka-masala)
 - [**[Vietnamese]** NYT pressure cooker beef pho](https://cooking.nytimes.com/recipes/1017521-pressure-cooker-beef-pho)
 - [**[French]** Beef Bourguignon](https://www.recipetineats.com/beef-bourguignon-beef-burgundy/)
+- [**[Hawaiian]** Spam Musubi](https://www.favfamilyrecipes.com/musubi/)
 
 #### Bread, Rice, Pasta
 - [**[Indian]** Garlic Naan](https://www.cookwithmanali.com/restaurant-style-garlic-naan/)
