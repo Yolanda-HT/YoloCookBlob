@@ -1,4 +1,4 @@
-# Crumbly Walnut Cashew Cookies
+# Crumbly Walnut / Cashew Cookies
 *This recipe can be altered to be gluten free / with maple caramel*
 > Origin 04/06/2022 <br>
 > Updated 01/14/2023 <br>
