@@ -1,19 +1,21 @@
-# Chinese Wall nut (walnut) Cookies
-> 04/06/2022 <br>
-> For: 20 cookies
+# Crumbly Walnut Cashew Cookies
+> Origin 04/06/2022 <br>
+> Updated 01/14/2023 <br>
+> For: 18 cookies
 
 ## 1. Ingredients
 ### 1.1 Dough mix
-- Cake flour: 400g
+- Cake flour: 400g (for gluten free version, replace with King Arthur Measure for Measure Flour. Dough will be extra loose when shaping)
 - Canola oil: 220g
-- Baking powder: 8g (2 teaspoons)
-- Granulated sugar: 160g
+- Baking powder: 8g (3 teaspoons)
+- Granulated sugar: 160g (for maple caramel version, replace half with [Maple Dalgona Caramel Crunch](../Sweets/Maple_Dalgona_Caramel_Crunch.md))
 - Baking soda: 5g (1 teaspoon)
 - Egg: 50g (one medium egg)
 - Salt: 3 grams (0.5 teaspoon)
 
 ### 1.2 Wall nuts
-- Walnuts: 300g 
+- Walnuts: 300g
+- Vegetable oil: some
 
 >*Boost your defense against zombie apocalypse with wall nuts* <br>
 ![Wallnut](wall_nut.png)
@@ -24,7 +26,7 @@
 
 ## 2. Steps
 - Prepare wallnuts (preheat oven 300F)
-  - Bake (300F, 10 minutes). 
+  - Coat with some vegetable oil. Bake (300F, 10 minutes). 
   - Cool and dice up.
 - Prepare dough balls (preheat oven 340F)
   - Mix all ingredients and roll into one large dough ball. 
