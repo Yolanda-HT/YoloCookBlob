@@ -18,9 +18,10 @@
 - [Tomato Basil Pasta Sauce](Sauces/TomatoBasilPastaSauce.MD)
 - [Taro Boba Tea](Sweets/Taro_Boba_Tea.md)
 - [Christine's Spiced Nuts](Baking/Christines_Spiced_Nuts.MD)
-- [Chinese Walnut Cookies](Baking/Chinese_Walnut_Cookies.md)
+- [Crumbly Walnut / Cashew cookies (Non-butter!)](Baking/Chinese_Walnut_Cookies.md)
 - [Cranberry Orange Spread](Sauces/Cranberry_Orange_Spread.MD)
 - [Lava sauce (for sushi rolls)](Sauces/Lava_Sauce.MD)
+- [Maple Dalgona Caramel Crunch](Sweets/Maple_Dalgona_Caramel_Crunch.md)
 
 ## Yolanda's Recommended Recipes
 #### Poultry
