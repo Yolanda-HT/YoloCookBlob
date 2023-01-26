@@ -22,6 +22,7 @@
 - [Cranberry Orange Spread](Sauces/Cranberry_Orange_Spread.MD)
 - [Lava sauce (for sushi rolls)](Sauces/Lava_Sauce.MD)
 - [Maple Dalgona Caramel Crunch](Sweets/Maple_Dalgona_Caramel_Crunch.md)
+- [Yolo's Modified Napa Cabbage Kimchi](Pickled/Yolo_Napa_Cabbage_Kimchi.MD)
 
 ## Yolanda's Recommended Recipes
 #### Poultry
