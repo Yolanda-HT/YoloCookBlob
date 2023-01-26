@@ -1,5 +1,5 @@
 # Yolo's Modified Napa Cabbage Kimchi
-> Modified from: [Maangchi: Traditional Napa cabbage kimchi](https://www.maangchi.com/recipe/tongbaechu-kimchi)
+> Modified from: [Maangchi: Traditional Napa cabbage kimchi](https://www.maangchi.com/recipe/tongbaechu-kimchi) <br>
 > 1/6/2021 <br>
 
 ## 1. Ingredients
