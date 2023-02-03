@@ -1,6 +1,6 @@
 [Main Page](https://yolanda-ht.github.io/YoloCookBlob/)
 
-# Tomato Basil Pasta Sauce
+# Creamy Tomato Basil Pasta Sauce
 > 7/25/2020 <br>
 
 ## 1. Ingredients
