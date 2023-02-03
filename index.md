@@ -6,10 +6,10 @@
 
 ## My Recipes
 - [Soy Sauce Glazed Eggs (Ajitsuke Tamago)](Egg/Ajitsuke_Tamago.md)
-- [Easy Crispy Salmon with Skin](Seafood/EasyCrispySalmonWithSkin.MD)
-- [Moo Shu Chicken](Chicken/Moo_Shu_Chicken.MD)
-- [Copycat Costco Garlic BBQ Chicken](Chicken/CopycatCostcoGarlicBBQChicken.MD)
-- [Mexican Grilled Chicken](Chicken/MexicanGrilledChicken.MD)
+- [Easy Salmon with Crispy Skin](Seafood/Easy_Salmon_with_Crispy_Skin.md)
+- [Moo Shu Chicken](Poultry/Moo_Shu_Chicken.md)
+- [Copycat Costco Garlic BBQ Chicken](Poultry/Copycat_Costco_Garlic_BBQ_Chicken.md)
+- [Mexican Grilled Chicken](Poultry/Mexican_Grilled_Chicken.md)
 - [Garlic Oven Baked Chicken](Chicken/GarlicOvenBakedChicken.MD)
 - [Copycat KFC Buttermilk Fried Chicken](Chicken/Copycat_KFC_Buttermilk_Fried_Chicken.MD)
 - [Rosemary Pork Chops](Pork/RosemaryPorkChops.MD)
@@ -23,6 +23,7 @@
 - [Lava sauce (for sushi rolls)](Sauces/Lava_Sauce.MD)
 - [Maple Dalgona Caramel Crunch](Sweets/Maple_Dalgona_Caramel_Crunch.md)
 - [Yolo's Modified Napa Cabbage Kimchi](Pickled/Yolo_Napa_Cabbage_Kimchi.MD)
+- [Strawberry tiramisu](Sweets/Strawberry_Tiramisu.MD)
 
 ## Yolanda's Recommended Recipes
 #### Poultry
