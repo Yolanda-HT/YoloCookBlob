@@ -24,7 +24,7 @@
 - [Taro Boba Tea](Sweets/Taro_Boba_Tea.md)
 - [Crumbly Walnut / Cashew Cookies (Non-butter!)](Sweets/Crumbly_Walnut_Cashew_Cookies.md)
 - [Simple Cpffee Truffle Squares](Sweets/Simple_Coffee_Truffle_Squares.md)
-- [Strawberry tiramisu](Sweets/Strawberry_Tiramisu.md)
+- [Strawberry tiramisu (no raw egg & no caffine & no alcohol)](Sweets/Strawberry_Tiramisu.md)
 
 ## Yolanda's Recommended Recipes
 #### Poultry
