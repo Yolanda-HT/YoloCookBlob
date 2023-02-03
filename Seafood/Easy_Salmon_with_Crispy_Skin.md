@@ -1,6 +1,6 @@
 [Main Page](https://yolanda-ht.github.io/YoloCookBlob/)
 
-# Easy Crispy Salmon with Skin
+# Easy Salmon with Crispy Skin
 > 12/13/2022 <br>
 
 ## 1. Ingredients
