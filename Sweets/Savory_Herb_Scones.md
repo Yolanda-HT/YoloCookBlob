@@ -1,6 +1,6 @@
 [Main Page](https://yolanda-ht.github.io/YoloCookBlob/)
 
-# Melt in Your Mouth Savory Herb Scones (Super Easy)
+# Melt-in-your-mouth Savory Herb Scones (Super Easy: Hands on time 10 minutes)
 > 2/5/2023
 
 ## 1. Ingredients
