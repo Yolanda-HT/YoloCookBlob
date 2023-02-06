@@ -1,4 +1,4 @@
-# Strawberry Tiramisu (*child friendly: no raw egg & no caffine & no alcohol*)
+# Strawberry Tiramisu (*child friendly: no raw egg, no caffine, no alcohol*)
 > 2/2/2023 <br>
 > Yield: 2 x 7 inch round pan
 
