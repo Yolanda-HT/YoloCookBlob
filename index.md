@@ -18,13 +18,14 @@
 - [Christine's Spiced Nuts](Snacks/Christines_Spiced_Nuts.md)
 - [Creamy Tomato Basil Pasta Sauce](Sauces/Creamy_Tomato_Basil_Pasta_Sauce.md)
 - [Cranberry Orange Spread](Sauces/Cranberry_Orange_Spread.md)
-- [Lava sauce (for sushi rolls)](Sauces/Lava_Sauce.md)
+- [Lava Sauce (for sushi rolls)](Sauces/Lava_Sauce.md)
 - [Yolo's Modified Napa Cabbage Kimchi](Pickled/Yolo_Napa_Cabbage_Kimchi.MD)
 - [Maple Dalgona Caramel Crunch](Sweets/Maple_Dalgona_Caramel_Crunch.md)
 - [Taro Boba Tea](Sweets/Taro_Boba_Tea.md)
 - [Crumbly Walnut / Cashew Cookies (Non-butter!)](Sweets/Crumbly_Walnut_Cashew_Cookies.md)
-- [Simple Cpffee Truffle Squares](Sweets/Simple_Coffee_Truffle_Squares.md)
-- [Strawberry tiramisu (*child friendly: no raw egg & no caffine & no alcohol*)](Sweets/Strawberry_Tiramisu.md)
+- [Simple Coffee Truffle Squares](Sweets/Simple_Coffee_Truffle_Squares.md)
+- [Strawberry Tiramisu (*child friendly: no raw egg, no caffine, no alcohol*)](Sweets/Strawberry_Tiramisu.md)
+- [Melt-in-your-mouth Savory Herb Scones](Sweets/Savory_Herb_Scones.md)
 
 ## Yolanda's Recommended Recipes
 #### Poultry
