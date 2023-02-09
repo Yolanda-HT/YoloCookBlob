@@ -18,7 +18,7 @@
 
 ### 1.3 Wet
 - Heavy cream: 1/2 cup
-- egg: 1
+- Egg: 1
 
 ## 2. Steps
 *Pre heat oven to 425F*
@@ -30,7 +30,7 @@
 - Freeze herb butter as a thin layer
 
 ## 2.2 Mix and shape (do this quickly so butter doesn't melt)
-- Pulse frozen herb butter and dry ingredients with a food processor till they're mixed
+- Pulse frozen herb infused butter and dry ingredients with a food processor till they're mixed
 - Add wet ingredients and pulse until ingredients are well mixed
 - Press to 2 inches, divide into 6-8 portions, shape into whatever shape you like,  with / without a mold
 
