@@ -26,6 +26,7 @@
 - [Simple Coffee Truffle Squares](Sweets/Simple_Coffee_Truffle_Squares.md)
 - [Strawberry Tiramisu (*child friendly: no raw egg, no caffine, no alcohol*)](Sweets/Strawberry_Tiramisu.md)
 - [Melt-in-your-mouth Savory Herb Scones](Sweets/Savory_Herb_Scones.md)
+- [Mixed Berry Scones](Sweets/Sweet_Mixed_Berry_Scones.md)
 
 ## Yolanda's Recommended Recipes
 #### Poultry
