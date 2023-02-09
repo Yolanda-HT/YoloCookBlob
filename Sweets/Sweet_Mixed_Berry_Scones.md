@@ -19,6 +19,8 @@
 ### 1.3 Wet
 - Heavy cream: 1/2 cup
 - Egg: 1
+
+### 1.4 Fruits
 - Mixed fruits: 1 cup
 
 ## 2. Steps
@@ -31,6 +33,7 @@
 - Freeze herb butter as a thin layer
 
 ## 2.2 Mix and shape (do this quickly so butter doesn't melt)
-- Pulse frozen herb butter and dry ingredients with a food processor till they're mixed
+- Pulse frozen lemon zest infused butter and dry ingredients with a food processor till they're mixed
 - Add wet ingredients and pulse until ingredients are well mixed
+- Add frozen fruits
 - Press to 2 inches, divide into 6-8 portions, shape into whatever shape you like,  with / without a mold
