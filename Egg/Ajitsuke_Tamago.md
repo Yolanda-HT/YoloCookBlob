@@ -21,10 +21,12 @@
 Mix all ingredients, boil, and cool down in a big bowl. Keep in refrigerator
 
 ### 2.2 Soft boiled Eggs
-1. Boil water in the pot, add vinegar.
-2. Add in eggs carefully (not to crack them), boil for 4 minutes (If eggs were refrigerated, boil for 4 minutes; if room temperature, boil for 3 minutes)
-3. Turn off heat, close the lid, wait for 3 minutes. At the same time, prepare a big bowl with water and add in the ice cubes
-4. Transfer eggs into the bowl with ice water, wait for 5 minutes (or till its cool)
-5. Peel eggs carefully, put peeled eggs in glaze (glaze should not be too hot for the hands to hold at this point)
-6. Put eggs & glaze in fridge overnight
-7. Take eggs out of glaze, enjoy!
+*Prepare a big bowl with water A LOT OF ice cubes, enough to cover all eggs*
+1. Place eggs in a plot, add vinegar.
+2. Boil water in a different pot. Pour over eggs once water boils.
+3. Boil for 4 minutes (If eggs were refrigerated, boil for 4 minutes; if room temperature, boil for 3 minutes)
+4. Turn off heat, close the lid, wait for 3 minutes (4 minutes if eggs were regrigerated).
+5. Transfer eggs into the bowl with ice water, make sure eggs are totally covered. Wait for 5 minutes (or till its cool)
+6. Peel eggs carefully, put peeled eggs in glaze (glaze should not be too hot for the hands to hold at this point)
+7. Put eggs & glaze in fridge overnight
+8. Take eggs out of glaze, enjoy!
