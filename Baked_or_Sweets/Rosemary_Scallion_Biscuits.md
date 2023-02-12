@@ -7,13 +7,14 @@
 
 ### 1.1 Herb butter
 - Salted butter: 1.5 cups
-- Fresh scallion: 3, diced
+- Diced fresh scallion: 3 scallions
 - Dried rosemary: 2 tbsps
 
 ### 1.2 Dry
 - All purpose flour: 3 1/3 cups
 - Corn starch: 2/3 cup
 - Baking powder: 2 tbsps
+- Baking soda: 1.5 tsp
 - Salt: 1 tsp
 
 ### 1.3 Wet
