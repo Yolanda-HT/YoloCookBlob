@@ -18,7 +18,7 @@
 - Salt: 1 tsp
 
 ### 1.3 Wet
-- Milk: 1 cup
+- Milk: 1.5 cups
 
 ## 2. Steps
 *Pre heat oven to 425F*
