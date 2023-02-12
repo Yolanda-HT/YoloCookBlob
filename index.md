@@ -20,13 +20,13 @@
 - [Cranberry Orange Spread](Sauces/Cranberry_Orange_Spread.md)
 - [Lava Sauce (for sushi rolls)](Sauces/Lava_Sauce.md)
 - [Yolo's Modified Napa Cabbage Kimchi](Pickled/Yolo_Napa_Cabbage_Kimchi.MD)
-- [Maple Dalgona Caramel Crunch](Sweets/Maple_Dalgona_Caramel_Crunch.md)
-- [Taro Boba Tea](Sweets/Taro_Boba_Tea.md)
-- [Crumbly Walnut / Cashew Cookies (Non-butter!)](Sweets/Crumbly_Walnut_Cashew_Cookies.md)
-- [Simple Coffee Truffle Squares](Sweets/Simple_Coffee_Truffle_Squares.md)
-- [Strawberry Tiramisu (*child friendly: no raw egg, no caffine, no alcohol*)](Sweets/Strawberry_Tiramisu.md)
-- [Melt-in-your-mouth Savory Herb Scones](Sweets/Savory_Herb_Scones.md)
-- [Mixed Berry Scones](Sweets/Sweet_Mixed_Berry_Scones.md)
+- [Maple Dalgona Caramel Crunch](Baked_or_Sweets/Maple_Dalgona_Caramel_Crunch.md)
+- [Taro Boba Tea](Baked_or_Sweets/Taro_Boba_Tea.md)
+- [Crumbly Walnut / Cashew Cookies (Non-butter!)](Baked_or_Sweets/Crumbly_Walnut_Cashew_Cookies.md)
+- [Simple Coffee Truffle Squares](Baked_or_Sweets/Simple_Coffee_Truffle_Squares.md)
+- [Strawberry Tiramisu (*child friendly: no raw egg, no caffine, no alcohol*)](Baked_or_Sweets/Strawberry_Tiramisu.md)
+- [Melt-in-your-mouth Savory Herb Scones](Baked_or_Sweets/Savory_Herb_Scones.md)
+- [Mixed Berry Scones](Baked_or_Sweets/Sweet_Mixed_Berry_Scones.md)
 
 ## Yolanda's Recommended Recipes
 #### Poultry
