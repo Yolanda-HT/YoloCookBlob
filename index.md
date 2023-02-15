@@ -15,7 +15,7 @@
 - [Rosemary Pork Chops](Meats/Rosemary_Pork_Chops.md)
 - [Garlic Pork Ribs](Meats/Garlic_Pork_Ribs.md)
 - [Pan Fried Korean BBQ Beef (Bulgogi)](Meats/Pan_Fried_Korean_BBQ_Beef.md)
-- [Chashu and Eggs (One Pot Ramen Topping)](Meants/Chashu_and_Eggs.md)
+- [Chashu and Eggs (One Pot Ramen Topping)](Meats/Chashu_and_Eggs.md)
 - [Christine's Spiced Nuts](Snacks/Christines_Spiced_Nuts.md)
 - [Creamy Tomato Basil Pasta Sauce](Sauces/Creamy_Tomato_Basil_Pasta_Sauce.md)
 - [Cranberry Orange Spread](Sauces/Cranberry_Orange_Spread.md)
