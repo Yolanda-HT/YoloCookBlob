@@ -27,6 +27,7 @@
 - [Crumbly Walnut / Cashew Cookies (Non-butter!)](Baked_or_Sweets/Crumbly_Walnut_Cashew_Cookies.md)
 - [Simple Coffee Truffle Squares](Baked_or_Sweets/Simple_Coffee_Truffle_Squares.md)
 - [Strawberry Tiramisu (*child friendly: no raw egg, no caffine, no alcohol*)](Baked_or_Sweets/Strawberry_Tiramisu.md)
+- [Carmen Tiramisu (*caramel + intense chocolate and coffee flavor + very boozy*)](Baked_or_Sweets/Carmen_Tiramisu.md)
 - [Melt-in-your-mouth Savory Herb Scones](Baked_or_Sweets/Savory_Herb_Scones.md)
 - [Mixed Berry Scones](Baked_or_Sweets/Sweet_Mixed_Berry_Scones.md)
 - [Rosemary Scallion Biscuits](Baked_or_Sweets/Rosemary_Scallion_Biscuits.md)
