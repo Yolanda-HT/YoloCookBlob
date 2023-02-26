@@ -53,11 +53,11 @@
 
 ### 2.3 Assemble
 *If using cake pan, line pan with cake collar. You can also make it directly in a clear container.*
-- 0) Prep: mix coffee and rum; blend cocoa powder and instant coffee to power.
-- 1) Soak ladyfingers in coffee rum mix briefly, lay one layer on the bottom (cut into size for edges if needed)
-- 2) Dust with cocoa coffee powder.
-- 3) Spread 1/2 filling and smooth the top.
-- Repeat layers: 1) soaked ladyfinger, 2) cocoa coffee powder & 3) filling.
+1. Prep: mix coffee and rum; blend cocoa powder and instant coffee to power.
+2. Soak ladyfingers in coffee rum mix briefly, lay one layer on the bottom (cut into size for edges if needed)
+3. Dust with cocoa coffee powder.
+4. Spread 1/2 filling and smooth the top.
+- Repeat layers: 2. soaked ladyfinger, 3. cocoa coffee powder & 4. filling.
 - Finish: dust cocoa coffee powder and then milk chocolate shavings.
 
 ### 2.4 Chill
