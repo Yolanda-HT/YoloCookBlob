@@ -39,7 +39,7 @@
 - Cook to reduce to ~10 oz
 
 ### 2.1 Marscarpone Custard Filling
-- Mix egg yolks, sugar and milk. Whisk and heat at medium low heat, stirr. Boil for 1 minute.
+- Mix egg yolks, sugar and milk. Whisk and heat at medium low heat, stir. Boil for 1 minute.
 - Transfer to freezer till cool (5-10 minutes).
 - Whisk mascarpone and mix in egg yolk mixture.
 
