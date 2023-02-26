@@ -1,7 +1,6 @@
 # Strawberry Tiramisu (*child friendly: no raw egg, no caffine, no alcohol*)
 > 2/2/2023 <br>
-> Yield: 2 x 7 inch round pan
-
+> Yield: 2 x 7 inch round pan / 2 x 40 sq inches square container
 
 ## 1. Ingredients
 
@@ -51,7 +50,7 @@
 - Mix mascarpone custard filling with whip cream filling if you like (you can keep them separate, just layer them one after another in the next step)
 
 ### 2.3 Assemble
-*Line round cake pan with cake collar*
+*If using cake pan, line pan with cake collar. You can also make it directly in a clear container.*
 - 1) Soak ladyfingers in bittermilk briefly, lay one layer on the bottom (cut into size for edges if needed)
 - 2) Dust with strawberry powder.
 - 3) Spread 1/2 filling and smooth the top.
