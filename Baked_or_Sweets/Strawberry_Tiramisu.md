@@ -51,10 +51,10 @@
 
 ### 2.3 Assemble
 *If using cake pan, line pan with cake collar. You can also make it directly in a clear container.*
-- 1) Soak ladyfingers in bittermilk briefly, lay one layer on the bottom (cut into size for edges if needed)
-- 2) Dust with strawberry powder.
-- 3) Spread 1/2 filling and smooth the top.
-- Repeat layers: 1) soaked ladyfinger, 2) strawberry powder & 3) filling.
+1. Soak ladyfingers in bittermilk briefly, lay one layer on the bottom (cut into size for edges if needed)
+2. Dust with strawberry powder.
+3. Spread 1/2 filling and smooth the top.
+- Repeat layers: 1. soaked ladyfinger, 2. strawberry powder & 3. filling.
 - Finish: dust generously with strawberry powder and then white chocolate shavings.
 
 ### 2.4 Chill
