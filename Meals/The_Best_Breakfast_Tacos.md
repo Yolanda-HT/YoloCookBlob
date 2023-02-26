@@ -22,7 +22,7 @@
 - Small radish (sliced): 1
 - Ground black pepper
 - Small beet (sliced, I used chioggia beet): 1 (optional)
-- Basmati vinagar: 1 tsp (optional, for beet slices)
+- Balsamic vinagar: 1 tsp (optional, for beet slices)
 - Olive oil: 1 tsp (optional, for beet slices)
 
 ### 1.4 Tortilla
