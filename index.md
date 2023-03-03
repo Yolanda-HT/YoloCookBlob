@@ -126,6 +126,7 @@
 - [**[Chinese]** Shu Daxia (hotpot)](https://www.yelp.com/biz/shu-daxia-hot-pot-boston-2) Recommended by: Ellen
 - [**[Chinese]** Noah's Kitchen](https://www.noahs.kitchen/) Recommended by: Yolanda
 - [**[Chinese]** Mu Lan](https://mulantaiwancambridge.com/) Recommended by: Xiaoguang & Yujung
+- [**[Chinese]** Asian Gourmet](https://goo.gl/maps/oz9zHzUxkZFhZwXG8) Recommended by: Yeimy
 - [**[Chinese]** Sumiao](https://www.sumiaohunan.com/) Recommended by: Xiaoguang
 - [**[Chinese]** Bun's House](https://www.bunshouseeverettma.com/) Recommended by: Zack
 - [**[Chinese]** Go Chi](http://places.singleplatform.com/go-chi/menu?ref=google) Recommended by: Xiaoguang
