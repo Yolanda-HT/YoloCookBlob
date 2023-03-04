@@ -48,7 +48,7 @@
 ## Protein Fat
 | :poultry_leg: | :poultry_leg: | :poultry_leg: | :poultry_leg: | :poultry_leg: |
 | - | - | - | - | - |
-| ![PRT_1](Salad_planner_database_plots/PRT_1___Hard_boiled_egg.png)|![PRT_2](Salad_planner_database_plots/PRT_2___Avocado.png)|![PRT_3](Salad_planner_database_plots/PRT_3___Low_fat_2%_cottage_cheese.png)|![PRT_4](Salad_planner_database_plots/PRT_4___Hard_cheese_(1_oz_cube_or_shredded).png)|![PRT_5](Salad_planner_database_plots/PRT_5___Pressed_tofu.png) |
+| ![PRT_1](Salad_planner_database_plots/PRT_1___Hard_boiled_egg.png)|![PRT_2](Salad_planner_database_plots/PRT_2___Avocado.png)|![PRT_3](Salad_planner_database_plots/PRT_3___Low_fat_2_cottage_cheese.png)|![PRT_4](Salad_planner_database_plots/PRT_4___Hard_cheese_(1_oz_cube_or_shredded).png)|![PRT_5](Salad_planner_database_plots/PRT_5___Pressed_tofu.png) |
 | ![PRT_6](Salad_planner_database_plots/PRT_6___Edamame.png)|![PRT_7](Salad_planner_database_plots/PRT_7___Chick_peas.png)|![PRT_8](Salad_planner_database_plots/PRT_8___Roasted_chicken_breast.png)|![PRT_9](Salad_planner_database_plots/PRT_9___Gilled_salmon.png)|![PRT_10](Salad_planner_database_plots/PRT_10___Grilled_white_fish_(Tilapia).png) |
 | ![PRT_11](Salad_planner_database_plots/PRT_11___Grilled_shrimp.png)|![PRT_12](Salad_planner_database_plots/PRT_12___Bacon_crumbles.png)|![PRT_13](Salad_planner_database_plots/PRT_13___Ham.png)|![PRT_14](Salad_planner_database_plots/PRT_14___Mixed_nuts.png)|![NA](Salad_planner_database_plots/0_empty.png) |
 
