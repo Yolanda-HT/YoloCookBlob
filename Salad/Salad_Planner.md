@@ -34,7 +34,7 @@
 | ![FRT_6](Salad_planner_database_plots/FRT_6___Strawberries.png)|![FRT_7](Salad_planner_database_plots/FRT_7___Blackberries.png)|![FRT_8](Salad_planner_database_plots/FRT_8___Grapes.png)|![FRT_9](Salad_planner_database_plots/FRT_9___Peaches.png)|![FRT_10](Salad_planner_database_plots/FRT_10___Tangerines.png) |
 
 ## Seasoned Cooked Veggies
-| ![icon](../assets/icons_small/resized_OpenMoji_roasted_sweet_potato.png) | ![icon](../assets/icons_small/resized_OpenMoji_roasted_sweet_potato.png) | ![icon](../assets/icons_small/resized_OpenMoji_roasted_sweet_potato.png) | ![icon](../assets/icons_small/resized_OpenMoji_roasted_sweet_potato.png) | ![icon](../assets/icons_small/resized_OpenMoji_roasted_sweet_potato.png) |
+| ![icon](../assets/icons_small/resized_OpenMoji_pot_of_food.png) | ![icon](../assets/icons_small/resized_OpenMoji_pot_of_food.png) | ![icon](../assets/icons_small/resized_OpenMoji_pot_of_food.png) | ![icon](../assets/icons_small/resized_OpenMoji_pot_of_food.png) | ![icon](../assets/icons_small/resized_OpenMoji_pot_of_food.png) |
 | :--- | :--- | :--- | :--- | :--- |
 | ![SCV_1](Salad_planner_database_plots/SCV_1___Broccoli-cauliflower_(air_fried-roasted).png)|![SCV_2](Salad_planner_database_plots/SCV_2___Brussel_sprouts_(air_fried-roasted).png)|![NA](Salad_planner_database_plots/0_empty.png)|![NA](Salad_planner_database_plots/0_empty.png)|![NA](Salad_planner_database_plots/0_empty.png) |
 
