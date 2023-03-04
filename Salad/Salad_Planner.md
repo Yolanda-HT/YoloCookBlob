@@ -3,6 +3,10 @@
 # Salad Planner
 > Updated: 03/04/2023
 
+- Daily % of nutrition values: based on **1 CUP** (240ml)
+- Daily calorie calculation: based on 1800 Cal diet
+- Calorie Density: calories / weight (g)
+
 ## Leafy Greens
 | :leafy_green: | :leafy_green: | :leafy_green: | :leafy_green: | :leafy_green: |
 | - | - | - | - | - |
