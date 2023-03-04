@@ -3,7 +3,7 @@
 # Salad Planner
 > Updated: 03/04/2023
 
-*In memory of the my cutest salad lover, Pandas*
+*In memory of the my cutest salad lover, Pandas* <br>
 ![Pandas](../assets/images/pandas.jpeg)
 
 - Daily % of nutrition values: based on **1 CUP** (240ml)
