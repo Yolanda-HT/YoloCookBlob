@@ -1,3 +1,5 @@
+[Main Page](https://yolanda-ht.github.io/YoloCookBlob/)
+
 # Soy Sauce Glazed Eggs (Ajitsuke Tamago)
 > 12/10/2021 <br>
 > Servings: 10
