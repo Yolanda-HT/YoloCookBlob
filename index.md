@@ -5,6 +5,7 @@
 > Yolanda (Huitian) Diao
 
 ## My Recipes
+- [Geek's Salad Planner (based on nutrition values)](Salad/Salad_Planner.md)
 - [Soy Sauce Glazed Eggs (Ajitsuke Tamago)](Egg/Ajitsuke_Tamago.md)
 - [Easy Salmon with Crispy Skin](Seafood/Easy_Salmon_with_Crispy_Skin.md)
 - [Moo Shu Chicken](Poultry/Moo_Shu_Chicken.md)
