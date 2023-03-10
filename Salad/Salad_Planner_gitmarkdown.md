@@ -73,6 +73,6 @@
 
 | - | - | - | - | - |
 | :--- | :---: | :---: | :---: | ---:|
-| ![HDS_1](Salad_planner_database_plots/HDS_1___Romesco_Dip.png)|![HDS_1](Salad_planner_database_plots/HDS_1___Romesco_Dip.png)|![HDS_2](Salad_planner_database_plots/HDS_2___Ranch_Dressing.png)|![HDS_3](Salad_planner_database_plots/HDS_3___Thousand_Island_Dressing.png)|![HDS_4](Salad_planner_database_plots/HDS_4___Maple_Basamic_Vinaigrette.png) |
-| ![HDS_5](Salad_planner_database_plots/HDS_5___Cranberry_Sauce.png)|![NA](Salad_planner_database_plots/0_empty.png)|![NA](Salad_planner_database_plots/0_empty.png)|![NA](Salad_planner_database_plots/0_empty.png)|![NA](Salad_planner_database_plots/0_empty.png) |
+| ![HDS_1](Salad_planner_database_plots/HDS_1___Romesco_Dip.png)|![HDS_2](Salad_planner_database_plots/HDS_2___Romesco_Dip.png)|![HDS_3](Salad_planner_database_plots/HDS_3___Ranch_Dressing.png)|![HDS_4](Salad_planner_database_plots/HDS_4___Maple_Basamic_Vinaigrette.png)|![HDS_5](Salad_planner_database_plots/HDS_5___Cranberry_Sauce.png) |
+| ![HDS_6](Salad_planner_database_plots/HDS_6___Cranberry_Sauce.png)|![NA](Salad_planner_database_plots/0_empty.png)|![NA](Salad_planner_database_plots/0_empty.png)|![NA](Salad_planner_database_plots/0_empty.png)|![NA](Salad_planner_database_plots/0_empty.png) |
 
