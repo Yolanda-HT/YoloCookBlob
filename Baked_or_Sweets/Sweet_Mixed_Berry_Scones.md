@@ -36,4 +36,8 @@
 - Pulse frozen lemon zest infused butter and dry ingredients with a food processor till they're mixed
 - Add wet ingredients and pulse until ingredients are well mixed
 - Add frozen fruits
-- Press to 2 inches, divide into 6-8 portions, shape into whatever shape you like,  with / without a mold
+- Press to 2 inches, divide into 6-8 portions, shape into whatever shape you like, with / without a mold
+- Brush the top of each scone with a bit of cream, sprinkle with sugar.
+
+
+
