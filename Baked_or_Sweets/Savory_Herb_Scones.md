@@ -35,5 +35,5 @@
 - Press to 2 inches, divide into 6-8 portions, shape into whatever shape you like,  with / without a mold
 
 ## 2.3 Bake
-- Bake for 10 minutes
+- Bake at 450F for 10 minutes
 - Enjoy!
