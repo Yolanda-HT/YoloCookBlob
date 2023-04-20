@@ -39,5 +39,7 @@
 - Press to 2 inches, divide into 6-8 portions, shape into whatever shape you like, with / without a mold
 - Brush the top of each scone with a bit of cream, sprinkle with sugar.
 
-
+## 2.3 Bake
+- Bake at 450F for 10 minutes
+- Enjoy!
 
