@@ -35,6 +35,8 @@
   - Tahini: 3/4 cup
   - Unsalted butter: 1/2 cup
 
+*Chocolate paste and Tahini paste can be either mixed or spread separately (to create marbled bands)*
+
 ### 1.3 Syrup for brushing
   - Granulated sugar: 1/4 cup
   - Water: 1/3 cup
@@ -42,7 +44,7 @@
   - Cardamom: 1/2 tsp
 
 ## 2. Steps
-See [Preppy Kitchen - Chocolate Babka](https://preppykitchen.com/chocolate-babka/)
 
-*Chocolate paste and Tahini paste can be either mixed or spread separately (to create marbled bands)*
 
+## Reference
+- https://www.myjewishlearning.com/the-nosher/butternut-squash-and-sage-challah/
