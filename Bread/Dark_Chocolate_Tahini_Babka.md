@@ -15,6 +15,8 @@
   - Granulated sugar: 1/3 cup
 - __Dry__
   - All purpose flour: 4 cups
+- __Butter__
+  - 12 tbsps
 
 ### 1.2 Filling
 - __Dark chocolate paste__ 
@@ -40,5 +42,7 @@
   - Cardamom: 1/2 tsp
 
 ## 2. Steps
+See [Preppy Kitchen - Chocolate Babka](https://preppykitchen.com/chocolate-babka/)
 
-### 
+*Chocolate paste and Tahini paste can be either mixed or spread separately (to create marbled bands)*
+
