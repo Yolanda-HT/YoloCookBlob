@@ -2,8 +2,8 @@
 > Original: 09/26/2023 <br>
 > Yield: 3 challahs (9 inch loaf)
 
-# 1. Ingredients
-## 1.1 __Dry__
+## 1. Ingredients
+### 1.1 __Dry__
 - All purpose flour: 1kg + 1/2 to 1 cup
 - Essential wheat gluten: 40g
 
@@ -27,6 +27,11 @@
 - Egg yolks: 4
 - Water: 2 tsp
 - Chopped fresh & fried sage leaves and white sesame seeds
+
+## 2. Steps
+
+## References
+- [My Jewish Learning: Butternut Squash and Sage Challah](https://www.myjewishlearning.com/the-nosher/butternut-squash-and-sage-challah/)
 
 
 
