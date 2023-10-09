@@ -2,8 +2,9 @@
 > Original: 10/07/2023 <br>
 > Yield: 16-20 2 inch squares
 
-| ![img](../assets/images/Tahini_Fudge_1.jpg) | ![img](../assets/images/Tahini_Fudge_2.jpg)|
-
+| Column 1 | Column 2 | 
+|----------|----------|
+| ![img](../assets/images/Tahini_Fudge_1.jpg)  | ![img](../assets/images/Tahini_Fudge_2.jpg) |
 
 ## 1. Ingredients
 - White chocolate chips: 4 oz
