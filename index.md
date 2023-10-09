@@ -32,6 +32,9 @@
 - [Melt-in-your-mouth Savory Herb Scones](Baked_or_Sweets/Savory_Herb_Scones.md)
 - [Mixed Berry Scones](Baked_or_Sweets/Sweet_Mixed_Berry_Scones.md)
 - [Rosemary Scallion Biscuits](Baked_or_Sweets/Rosemary_Scallion_Biscuits.md)
+- [Butternut Squash Challah](Bread/Butternut_Squash_Challah.md)
+- [Dark Chocolate Tahini Babka](Bread/Dark_Chocolate_Tahini_Babka.md)
+- [Tahini Fudge](Baked_or_Sweets/Tahini_Fudge.md)
 
 ## Yolanda's Recommended Recipes
 #### Poultry
