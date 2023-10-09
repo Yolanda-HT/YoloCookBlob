@@ -85,7 +85,7 @@ __Options__
 - Brush syrup on loaves immediately after baking.
 - Let babkas cool for 30 minutes
 
-## Serving
+## 3. Serving
 - Best served warm
 - To heat up: 375F in oven or air fryer for a few minutes, until chocolate inside becomes slightly melty
 
