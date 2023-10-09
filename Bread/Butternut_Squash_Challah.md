@@ -46,7 +46,7 @@
 ### 2.4 Brushing & Garnishing
 - In a small bowl, beat 2 egg yolks with 1 tsp water.
    
-### 2.5 Shaping and baking:  
+### 2.5 Shaping and baking
 - Preheat oven to 350 degrees.  
 - Divide dough into desired portions.
 - Braid dough and let rise for 45-60 minutes.  
