@@ -2,6 +2,10 @@
 > Original: 09/26/2023 <br>
 > Yield: 2 babkas (9 inch loaf)
 
+| 🍫 | ❤️ | 
+|----------|----------|
+| ![img](../assets/images/Dark_Chocolate_Tahini_Babka_1.jpg)  | ![img](../assets/images/Dark_Chocolate_Tahini_Babka_2.jpg) |
+
 ## 1. Ingredients
 ### 1.1 Dough mix
 - __Yeast__
