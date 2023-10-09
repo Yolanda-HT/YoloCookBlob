@@ -2,6 +2,10 @@
 > Original: 09/26/2023 <br>
 > Yield: 3 challahs (9 inch loaf)
 
+| 🍫 | ❤️ | 
+|----------|----------|
+| ![img](../assets/images/Butternut_Squash_Challah_1.jpg)  | ![img](../assets/images/Butternut_Squash_Challah_2.jpg) |
+
 ## 1. Ingredients
 ### 1.1 __Dry__
 - All purpose flour: 1kg + 1/2 to 1 cup
