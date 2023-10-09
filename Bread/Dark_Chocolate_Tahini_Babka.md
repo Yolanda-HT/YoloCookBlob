@@ -1,5 +1,4 @@
 # Dark Chocolate & Tahini Babka
-*This recipe can be altered to be gluten free / with maple caramel*
 > Original: 09/26/2023 <br>
 > Yield: 2 babkas (9 inch loaf)
 
