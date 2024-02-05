@@ -6,7 +6,7 @@
 
 | 🍞 |
 |----------|
-| ![img](../assets/images/Yudane_Soymilk_Challah.jpg)  | ![img](../assets/images/Butternut_Squash_Challah_2.jpg) |
+| ![img](../assets/images/Yudane_Soymilk_Challah.jpg)  |
 
 ## 1. Ingredients
 ### 1.1 __Yudane__
