@@ -19,7 +19,7 @@
 - Luke Warm Soy milk: 125g or 1/2 cup
 
 ### 1.3 __Bread__
-- Bread flour: 570g - 600g or 4 3/4 cups - 5 cups (adjust on your flour's water absorbance)
+- Bread flour: 570g - 600g or 4 3/4 cups - 5 cups (adjust based on your flour's water absorbance)
 - Egg yolks: 5
 - Salt: 8g or 1/2 tbsp
 - Honey: 115g or 1/3 cup
