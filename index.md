@@ -33,7 +33,7 @@
 - [Mixed Berry Scones](Baked_or_Sweets/Sweet_Mixed_Berry_Scones.md)
 - [Rosemary Scallion Biscuits](Baked_or_Sweets/Rosemary_Scallion_Biscuits.md)
 - [Butternut Squash Challah](Bread/Butternut_Squash_Challah.md)
-- [YUdane Soymilk Challah](Bread/Yudane_Soymilk_Challah.md)
+- [Yudane Soymilk Challah](Bread/Yudane_Soymilk_Challah.md)
 - [Dark Chocolate Tahini Babka](Bread/Dark_Chocolate_Tahini_Babka.md)
 - [Tahini Fudge](Baked_or_Sweets/Tahini_Fudge.md)
 
