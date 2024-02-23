@@ -14,12 +14,12 @@
 - Bread flour: 40g or 1/3 cup
 
 ### 1.2 __Yeast mix__
-- Sugar: 12g or 1 tbsp (double if using unsweetened soy milk)
+- (Optional for sweeter bread) Sugar: 12g or 1 tbsp (double if using unsweetened soy milk)
 - Yeast: 7g or 2 1/2 tsp
 - Luke Warm Soy milk: 125g or 1/2 cup
 
 ### 1.3 __Bread__
-- Bread flour: 570g - 600g or 4 3/4 cups - 5 cups (adjust based on your flour's water absorbance)
+- Flour: 570g - 600g or 4 3/4 cups - 5 cups (adjust based on your flour's water absorbance)
 - Egg yolks: 5
 - Salt: 8g or 1/2 tbsp
 - Honey: 115g or 1/3 cup
@@ -29,7 +29,10 @@
 - Egg: 1
 - Water: 1 tbsp
 
-*For 750g Bread flour*: 690g (5.75 cups) all purpose flour + 60g (0.5 cup) vital wheat gluten flour
+*The flour mix I used*: 
+- 560g (4 2/3 cups) all purpose flour + 20g (2 2/3 tbsps) vital wheat gluten flour
+- About equivalent to 1:1 mix of bread flour and all purpose flour
+- Can also use bread flour or all purpose flour
 
 ## 2. Steps
 ### 2.1 Yudane
