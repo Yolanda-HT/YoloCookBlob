@@ -29,10 +29,10 @@
 - Egg: 1
 - Water: 1 tbsp
 
-*The flour mix I used*: 
-   - 560g (4 2/3 cups) all purpose flour + 20g (2 2/3 tbsps) vital wheat gluten flour
-   - About equivalent to 1:1 mix of bread flour and all purpose flour
-   - Can also use bread flour or all purpose flour
+### *The flour mix I used*: 
+- 560g (4 2/3 cups) all purpose flour + 20g (2 2/3 tbsps) vital wheat gluten flour
+- About equivalent to 1:1 mix of bread flour and all purpose flour
+- Can also use bread flour or all purpose flour
 
 ## 2. Steps
 ### 2.1 Yudane
