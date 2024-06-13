@@ -1,6 +1,10 @@
 # Peach Cheesecake Bars
 > Origin 06/13/2024 <br>
-> For: 32 bars
+> Yield: 32 bars
+
+| 🍑 | 🧀 | 
+|----------|----------|
+| ![img](../assets/images/Peach_Cheesecake_Bars_1.jpg)  | ![img](../assets/images/Peach_Cheesecake_Bars_1.jpg) |
 
 ## 1. Ingredients
 ### 1.1 Crust
