@@ -36,6 +36,7 @@
 - [Yudane Soymilk Challah](Bread/Yudane_Soymilk_Challah.md)
 - [Dark Chocolate Tahini Babka](Bread/Dark_Chocolate_Tahini_Babka.md)
 - [Tahini Fudge](Baked_or_Sweets/Tahini_Fudge.md)
+- [Peach Cheesecake Bars](Baked_or_Sweets/Peach_Cheesecake_Bars.md)
 
 ## Yolanda's Recommended Recipes
 #### Poultry
