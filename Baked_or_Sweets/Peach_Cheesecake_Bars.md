@@ -4,7 +4,7 @@
 
 | 🍑 | 🧀 | 
 |----------|----------|
-| ![img](../assets/images/Peach_Cheesecake_Bars_1.jpg)  | ![img](../assets/images/Peach_Cheesecake_Bars_1.jpg) |
+| ![img](../assets/images/Peach_Cheesecake_Bars_1.jpg)  | ![img](../assets/images/Peach_Cheesecake_Bars_2.jpg) |
 
 ## 1. Ingredients
 ### 1.1 Crust
