@@ -7,24 +7,24 @@
 ## Ingredients
 
 ### Sauté Mix
-- 1 large leek, thinly sliced
-- 4 oz salami, chopped
-- 1/2 tsp ground white pepper
-- 1/4 tsp salt
+- Leek (thinly sliced): 1 large
+- Salami (chopped): 4 oz
+- Ground white pepper: 1/2 tsp
+- Salt: 1/4 tsp
 
 ### Wet Mix
-- 2 eggs
-- 1 egg yolk
-- 0.75 cup heavy cream
-- 1/4 tsp ground clove
-- 1 tsp mushroom powder
-- 1 tsp dried oregano
+- Eggs: 2
+- Egg yolk: 1
+- Heavy cream: 0.75 cup
+- Ground clove: 1/4 tsp
+- Mushroom powder: 1 tsp
+- Dried oregano: 1 tsp
 
 ### Cheese
-- 4 oz Gruyère, shredded
+- Gruyère (shredded): 4 oz
 
 ### Pie Crust
-- 1 8-inch pie crust
+- 8 inch pie crust: 1 ([Flaky Greek Yogurt Pie Crust](../Baked_or_Sweets/Flaky_Greek_Yogurt_Pie_Crust.md))
 
 ## Steps
 
