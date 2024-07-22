@@ -18,6 +18,8 @@
 - [Pan Fried Korean BBQ Beef (Bulgogi)](Meats/Pan_Fried_Korean_BBQ_Beef.md)
 - [Chashu and Eggs (One Pot Ramen Topping)](Meats/Chashu_and_Eggs.md)
 - [The Best Breakfast Tacos (Parmesan Egg Avacado and Kale)](Meals/The_Best_Breakfast_Tacos.md)
+- [Leek Salami Quiche](Meals/Leek_Salami_Quiche.md)
+- [Leek Mushroom Garden Quiche](Meals/Leek_Mushroom_Garden_Quiche.md)
 - [Christine's Spiced Nuts](Snacks/Christines_Spiced_Nuts.md)
 - [Creamy Tomato Basil Pasta Sauce](Sauces/Creamy_Tomato_Basil_Pasta_Sauce.md)
 - [Cranberry Orange Spread](Sauces/Cranberry_Orange_Spread.md)
@@ -29,6 +31,7 @@
 - [Simple Coffee Truffle Squares](Baked_or_Sweets/Simple_Coffee_Truffle_Squares.md)
 - [Strawberry Tiramisu (*child friendly: no raw egg, no caffine, no alcohol*)](Baked_or_Sweets/Strawberry_Tiramisu.md)
 - [Carmen Tiramisu (*caramel + intense chocolate and coffee flavor + very boozy*)](Baked_or_Sweets/Carmen_Tiramisu.md)
+- [Flaky Greek Yogurt Pie Crust](Baked_or_Sweets/Flaky_Greek_Yogurt_Pie_Crust.md)
 - [Melt-in-your-mouth Savory Herb Scones](Baked_or_Sweets/Savory_Herb_Scones.md)
 - [Mixed Berry Scones](Baked_or_Sweets/Sweet_Mixed_Berry_Scones.md)
 - [Rosemary Scallion Biscuits](Baked_or_Sweets/Rosemary_Scallion_Biscuits.md)
@@ -37,6 +40,7 @@
 - [Dark Chocolate Tahini Babka](Bread/Dark_Chocolate_Tahini_Babka.md)
 - [Tahini Fudge](Baked_or_Sweets/Tahini_Fudge.md)
 - [Peach Cheesecake Bars](Baked_or_Sweets/Peach_Cheesecake_Bars.md)
+
 
 ## Yolanda's Recommended Recipes
 #### Poultry
