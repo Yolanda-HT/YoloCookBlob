@@ -19,11 +19,16 @@
 - Luke Warm Soy milk: 125g or 1/2 cup
 
 ### 1.3 __Bread__
-- Flour: 540g or 4 1/2 cups (adjust slightly based on your flour's water absorbance)
-- Egg yolks: 5
-- Salt: 8g or 1/2 tbsp
+__Wet__
 - Honey: 115g or 1/3 cup
 - Oil: 75g or 1/3 cup
+- Egg yolks: 5
+- Yeast mix
+- Yudane
+__Dry__
+- Flour: 540g or 4 1/2 cups (adjust slightly based on your flour's water absorbance)
+- Salt: 8g or 1/2 tbsp
+
 
 ### 1.5 __Egg wash__
 - Egg: 1
@@ -49,8 +54,8 @@
 - Let sit for 10 minutes until foamy.  
    
 ### 2.2 Dough
-- Combine __Yudane__, __yeast mix__, and __bread ingredients__, blend well.
-- In a stand mixer bowl, mix all dough ingredients.
+- Combine __wet__ ingredients for bread, blend well with a blender.
+- In a stand mixer bowl, fold in __dry__ ingredients to form a dough ball.
 - Knead at speed 2 in stand mixer for 10 minutes. Dough should become smooth and elastic.
 - Place dough in a greased bowl, cover and let rise in warm place until double (about an hour to an hour and half).
 
