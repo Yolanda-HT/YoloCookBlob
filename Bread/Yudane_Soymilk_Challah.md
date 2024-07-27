@@ -34,12 +34,12 @@ __Dry__
 - Egg: 1
 - Water: 1 tbsp
 
-### *The flour mix I used*: 
+#### *The flour mix I used*: 
 - 560g (4 2/3 cups) all purpose flour + 20g (2 2/3 tbsps) vital wheat gluten flour
 - About equivalent to 1:1 mix of bread flour and all purpose flour
 - Can also use bread flour or all purpose flour
 
-### *The concentrated soy milk I used*
+#### *The concentrated soy milk I used*
 - Hot water: 1.25 cup (300g)
 - [Yon ho original soy bean powder](https://www.sayweee.com/en/product/Yon-Ho-Soy-Milk-Powder-Classic-Original-Flavor/89704): 3 bags (80g)
 
@@ -64,7 +64,7 @@ __Dry__
    
 ### 2.5 Shaping and baking
 - Preheat oven to 350 degrees.  
-- Divide dough into 2 portions.
+- Divide dough into 2 portions (each ~580g).
 - For each portion, further divide the dough to number of strands you like. Shape into long cylinders for braiding.
 - Braid dough. [How to braid challah](https://laurenmonaco.com/MintysTable-Challah-Diagrams)
 - COver losely and let rise until doubles.  
