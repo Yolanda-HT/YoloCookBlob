@@ -41,7 +41,7 @@
 ### 2.0 [Prep ahead] Maple Dalgona Caramel Crunch
 - Follow [Maple Dalgona Caramel Crunch](../Maple_Dalgona_Caramel_Crunch.md) recipe
 
-### 2.1 Marscarpone Custard Filling
+### 2.1 Mascarpone Custard Filling
 - Mix egg yolks, sugar and milk. Whisk and heat at medium low heat, stir. Boil for 1 minute.
 - Transfer to freezer till cool (5-10 minutes).
 - Whisk mascarpone and mix in egg yolk mixture.
