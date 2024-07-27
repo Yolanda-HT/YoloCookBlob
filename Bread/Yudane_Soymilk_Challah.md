@@ -34,6 +34,10 @@
 - About equivalent to 1:1 mix of bread flour and all purpose flour
 - Can also use bread flour or all purpose flour
 
+### *The concentrated soy milk I used*
+- Hot water: 1.25 cup (300g)
+- [Yon ho original soy bean powder](https://www.sayweee.com/en/product/Yon-Ho-Soy-Milk-Powder-Classic-Original-Flavor/89704): 3 bags (80g)
+
 ## 2. Steps
 ### 2.1 Yudane
 - In a small pot, stir together soy milk and bread flour. Combine well.
