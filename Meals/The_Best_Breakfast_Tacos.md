@@ -6,9 +6,13 @@
 
 ## 1. Ingredients
 
-### 1.1 Parmesan Scrambled Eggs
+### 1.0 Grated Parmesan Pecorino Mix
+- Parmesan: 1.6 oz
+- Pecorino: 0.8 oz
+
+### 1.1 Parmesan Pecorino Scrambled Eggs
 - Eggs: 4
-- Parmesan (grated): 1.5 oz
+- Grated Parmesan Pecorino Mix: 1.5 oz
 - Milk: 1 tbsp
 - Sea salt: 1/4 tsp
 - Butter (salted): 1 tbsp
@@ -19,8 +23,11 @@
 - Olive oil: 1/2 tbsp
 - Water: 1/2 tbsp
 
+### 1.4 Mashed Avocado
+- Avocado: 1
+- Lime juice: 1/2 tsp
+
 ### 1.3 Toppings
-- Avocado (sliced): 1
 - Small radish (sliced): 1
 - Ground black pepper
 - Small beet (sliced, I used chioggia beet): 1 (optional)
@@ -28,7 +35,7 @@
 - Olive oil: 1 tsp (optional, for beet slices)
 
 ### 1.4 Tortilla
-- Corn tortillas: 4
+- Corn tortillas: 4 (we like Mi Tierra corn tortillas)
 - Butter / oil: some, to coat the pan
 
 
