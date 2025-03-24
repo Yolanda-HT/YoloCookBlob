@@ -30,6 +30,7 @@
 ### 1.3 Toppings
 - Small radish (sliced): 1
 - Ground black pepper
+- Grated Parmesan Pecorino Mix
 - Small beet (sliced, I used chioggia beet): 1 (optional)
 - Balsamic vinagar: 1 tsp (optional, for beet slices)
 - Olive oil: 1 tsp (optional, for beet slices)
