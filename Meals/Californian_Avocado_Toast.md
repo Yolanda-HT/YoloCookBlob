@@ -5,9 +5,9 @@
 > Yield: 2 servings
 >
 
-| 🥑 | 🍞 |
-|----------|----------|
-| ![img](../assets/images/Avocado_Toast_1.jpg)  | ![img](../assets/images/Avocado_Toast_2.jpg) |
+| 🌮 |
+|----------|
+| ![img](../assets/images/Breast_Taco_1.jpg)  |
 
 ## 1. Ingredients
 
