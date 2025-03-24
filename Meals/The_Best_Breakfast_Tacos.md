@@ -5,6 +5,10 @@
 > Updated: 3/23/2023 <br> 
 > Yield: 4 tacos
 
+| 🌮 |
+|----------|
+| ![img](../assets/images/Breast_Taco_1.jpg)  |
+
 ## 1. Ingredients
 
 ### 1.0 Grated Parmesan Pecorino Mix
