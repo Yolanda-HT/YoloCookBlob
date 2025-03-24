@@ -7,7 +7,7 @@
 
 | 🥑 | 🍞 |
 |----------|----------|
-| ![img](../assets/images/Avocado_Toast_1.jpg)  | ![img](../assets/images/Avocado_Toast_2.jpg) |
+| ![img](../assets/images/Avocado_Toast_1.png)  | ![img](../assets/images/Avocado_Toast_2.png) |
 
 ## 1. Ingredients
 
