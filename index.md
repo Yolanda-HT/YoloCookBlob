@@ -18,6 +18,7 @@
 - [Pan Fried Korean BBQ Beef (Bulgogi)](Meats/Pan_Fried_Korean_BBQ_Beef.md)
 - [Chashu and Eggs (One Pot Ramen Topping)](Meats/Chashu_and_Eggs.md)
 - [The Best Breakfast Tacos (Parmesan Egg Avacado and Kale)](Meals/The_Best_Breakfast_Tacos.md)
+- [Californian Avocado Toast](Meals/Californian_Avocado_Toast.md)
 - [Leek Salami Quiche](Meals/Leek_Salami_Quiche.md)
 - [Leek Mushroom Garden Quiche](Meals/Leek_Mushroom_Garden_Quiche.md)
 - [Christine's Spiced Nuts](Snacks/Christines_Spiced_Nuts.md)
