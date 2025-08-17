@@ -54,9 +54,9 @@
 - Drizzle glaze over cooled bars.  
 - Let glaze set for 5 minutes before cutting into squares.
 
-## Note:
+## Note
 - Store at room temp or in fridge for 3–4 days.  
 - For quicker cooling, freeze bars for 15 minutes before glazing.  
 
-**Reference:**  
-https://www.halfbakedharvest.com/maple-brown-sugar-blondies/
+## Reference
+- https://www.halfbakedharvest.com/maple-brown-sugar-blondies/
