@@ -27,6 +27,7 @@
 - [Lava Sauce (for sushi rolls)](Sauces/Lava_Sauce.md)
 - [Yolo's Modified Napa Cabbage Kimchi](Pickled/Yolo_Napa_Cabbage_Kimchi.MD)
 - [Maple Dalgona Caramel Crunch](Baked_or_Sweets/Maple_Dalgona_Caramel_Crunch.md)
+- [Maple Blondies](Baked_or_Sweets/Maple_Blondies.md)
 - [Taro Boba Tea](Baked_or_Sweets/Taro_Boba_Tea.md)
 - [Crumbly Walnut / Cashew Cookies (Non-butter!)](Baked_or_Sweets/Crumbly_Walnut_Cashew_Cookies.md)
 - [Simple Coffee Truffle Squares](Baked_or_Sweets/Simple_Coffee_Truffle_Squares.md)
