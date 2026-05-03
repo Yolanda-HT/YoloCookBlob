@@ -5,27 +5,44 @@
 > Yolanda (Huitian) Diao
 
 ## My Recipes
+#### Salad
 - [Geek's Salad Planner (based on nutrition values)](Salad/Salad_Planner.md)
+
+#### Eggs & Seafood
 - [Soy Sauce Glazed Eggs (Ajitsuke Tamago)](Egg/Ajitsuke_Tamago.md)
 - [Easy Salmon with Crispy Skin](Seafood/Easy_Salmon_with_Crispy_Skin.md)
+
+#### Poultry
 - [Moo Shu Chicken](Poultry/Moo_Shu_Chicken.md)
 - [Copycat Costco Garlic BBQ Chicken](Poultry/Copycat_Costco_Garlic_BBQ_Chicken.md)
 - [Mexican Grilled Chicken](Poultry/Mexican_Grilled_Chicken.md)
 - [Garlic Oven Baked Chicken](Poultry/Garlic_Oven_Baked_Chicken.md)
 - [Copycat KFC Buttermilk Fried Chicken](Poultry/Copycat_KFC_Buttermilk_Fried_Chicken.md)
+
+#### Meats
 - [Rosemary Pork Chops](Meats/Rosemary_Pork_Chops.md)
 - [Garlic Pork Ribs](Meats/Garlic_Pork_Ribs.md)
 - [Pan Fried Korean BBQ Beef (Bulgogi)](Meats/Pan_Fried_Korean_BBQ_Beef.md)
 - [Chashu and Eggs (One Pot Ramen Topping)](Meats/Chashu_and_Eggs.md)
+
+#### Meals
 - [The Best Breakfast Tacos (Parmesan Egg Avacado and Kale)](Meals/The_Best_Breakfast_Tacos.md)
 - [Californian Avocado Toast](Meals/Californian_Avocado_Toast.md)
 - [Leek Salami Quiche](Meals/Leek_Salami_Quiche.md)
 - [Leek Mushroom Garden Quiche](Meals/Leek_Mushroom_Garden_Quiche.md)
+
+#### Snacks
 - [Christine's Spiced Nuts](Snacks/Christines_Spiced_Nuts.md)
+
+#### Sauces & Spreads
 - [Creamy Tomato Basil Pasta Sauce](Sauces/Creamy_Tomato_Basil_Pasta_Sauce.md)
 - [Cranberry Orange Spread](Sauces/Cranberry_Orange_Spread.md)
 - [Lava Sauce (for sushi rolls)](Sauces/Lava_Sauce.md)
+
+#### Pickled
 - [Yolo's Modified Napa Cabbage Kimchi](Pickled/Yolo_Napa_Cabbage_Kimchi.MD)
+
+#### Baked Goods & Sweets
 - [Maple Dalgona Caramel Crunch](Baked_or_Sweets/Maple_Dalgona_Caramel_Crunch.md)
 - [Maple Blondies](Baked_or_Sweets/Maple_Blondies.md)
 - [Taro Boba Tea](Baked_or_Sweets/Taro_Boba_Tea.md)
@@ -37,11 +54,13 @@
 - [Melt-in-your-mouth Savory Herb Scones](Baked_or_Sweets/Savory_Herb_Scones.md)
 - [Mixed Berry Scones](Baked_or_Sweets/Sweet_Mixed_Berry_Scones.md)
 - [Rosemary Scallion Biscuits](Baked_or_Sweets/Rosemary_Scallion_Biscuits.md)
+- [Tahini Fudge](Baked_or_Sweets/Tahini_Fudge.md)
+- [Peach Cheesecake Bars](Baked_or_Sweets/Peach_Cheesecake_Bars.md)
+
+#### Breads
 - [Butternut Squash Challah](Bread/Butternut_Squash_Challah.md)
 - [Yudane Soymilk Challah](Bread/Yudane_Soymilk_Challah.md)
 - [Dark Chocolate Tahini Babka](Bread/Dark_Chocolate_Tahini_Babka.md)
-- [Tahini Fudge](Baked_or_Sweets/Tahini_Fudge.md)
-- [Peach Cheesecake Bars](Baked_or_Sweets/Peach_Cheesecake_Bars.md)
 
 
 ## Yolanda's Recommended Recipes
