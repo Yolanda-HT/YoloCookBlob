@@ -74,6 +74,8 @@
 - [**[Protein]** Cottage Cheese Spinach & Egg Bake (Baby Version)](Baby_Food/Protein/Cottage_Cheese_Spinach_Egg_Bake_Baby_Version.md)
 - [**[Protein]** Hana's Soft Scallion Eggies](Baby_Food/Protein/Hanas_Soft_Scallion_Eggies.md)
 - [**[Protein]** Veggie Egg Omelette](Baby_Food/Protein/Veggie_Egg_Omelette.md)
+- [**[Fiber]** Okra Patties](Baby_Food/Fiber/Okra_Patties.md)
+- [**[Fiber]** Spinach Patties](Baby_Food/Fiber/Spinach_Patties.md)
 - [**[Fiber]** The 4th Floor Falafel](Baby_Food/Fiber/The_4th_Floor_Falafel.md)
 - [**[Fiber]** Veggie Cottage Cheese Chew Sticks](Baby_Food/Fiber/Veggie_Cottage_Cheese_Chew_Sticks.md)
 
