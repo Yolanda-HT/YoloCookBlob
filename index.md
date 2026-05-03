@@ -62,6 +62,21 @@
 - [Yudane Soymilk Challah](Bread/Yudane_Soymilk_Challah.md)
 - [Dark Chocolate Tahini Babka](Bread/Dark_Chocolate_Tahini_Babka.md)
 
+#### Baby Food
+- [**[Carb]** Beet Sweet Potato Hearts](Baby_Food/Carbs/Beet_Sweet_Potato_Hearts.md)
+- [**[Carb]** Iron Grapenuts Banana Oat Muffins](Baby_Food/Carbs/Iron_Grapenuts_Banana_Oat_Muffins.md)
+- [**[Carb]** Nut Free Banana Muffins](Baby_Food/Carbs/Nut_Free_Banana_Muffins.md)
+- [**[Carb]** Pumpkin Cake](Baby_Food/Carbs/Pumpkin_Cake.md)
+- [**[Carb]** Spongy Cubes](Baby_Food/Carbs/Spongy_Cubes.md)
+- [**[Protein]** Baby's Shrimp & Rice Patties](Baby_Food/Protein/Babys_Shrimp_and_Rice_Patties.md)
+- [**[Protein]** Beef Potato Leek Patties](Baby_Food/Protein/Beef_Potato_Leek_Patties.md)
+- [**[Protein]** Chicken Liver Patties](Baby_Food/Protein/Chicken_Liver_Patties.md)
+- [**[Protein]** Cottage Cheese Spinach & Egg Bake (Baby Version)](Baby_Food/Protein/Cottage_Cheese_Spinach_Egg_Bake_Baby_Version.md)
+- [**[Protein]** Hana's Soft Scallion Eggies](Baby_Food/Protein/Hanas_Soft_Scallion_Eggies.md)
+- [**[Protein]** Veggie Egg Omelette](Baby_Food/Protein/Veggie_Egg_Omelette.md)
+- [**[Fiber]** The 4th Floor Falafel](Baby_Food/Fiber/The_4th_Floor_Falafel.md)
+- [**[Fiber]** Veggie Cottage Cheese Chew Sticks](Baby_Food/Fiber/Veggie_Cottage_Cheese_Chew_Sticks.md)
+
 
 ## Yolanda's Recommended Recipes
 #### Poultry
